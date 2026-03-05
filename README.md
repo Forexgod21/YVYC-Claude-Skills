@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="yvyc-gold-cosmo-logo.png" alt="YVYC Logo" width="200"/>
+  <img src="yvyc_gold_cosmo_logo.png" alt="YVYC Logo" width="200"/>
 </p>
 # YVYC Claude Skills Library
 
