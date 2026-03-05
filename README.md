@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="yvyc-gold-cosmo-logo.png" alt="YVYC Logo" width="200"/>
+</p>
 # YVYC Claude Skills Library
 
 **Your Vision Your Creation — Open AI Skill Repository**
