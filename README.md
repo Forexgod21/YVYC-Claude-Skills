@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="YVYC-black-smoke-logo.jpg" alt="YVYC Logo" width="600"/>
+  <img src="YVYC-black-smoke-logo.jpg" alt="YVYC Logo" width="300"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="yvyc-crest.png" alt="YVYC Crest" width="350"/>
 </p>
+
 # YVYC Claude Skills Library
 
 **Your Vision Your Creation — Open AI Skill Repository**
