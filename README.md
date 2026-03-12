@@ -90,7 +90,7 @@ YVYC-Claude-Skills/
 
 | Category | Skills |
 |---|---|
-| Design | 7 (in progress) |
+| Design | 7 |
 | Marketing | 0 |
 | Writing | 0 |
 | Productivity | 0 |
