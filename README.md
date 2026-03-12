@@ -98,7 +98,6 @@ YVYC-Claude-Skills/
 | **Total** | **8** |
 
 > This table is updated with every new skill added.
-> Skills marked "in progress" have folder structure in place — content publishing soon.
 
 ---
 
