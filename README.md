@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="yvyc-emoji-crest.jpg" alt="YVYC Emoji Crest" width="300"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="YVYC-black-smoke-logo.jpg" alt="YVYC Logo" width="300"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="yvyc-coin-crest-emoji.png" alt="YVYC Coin" width="300"/>
+  <img src="yvyc-crest.png" alt="YVYC Crest" width="300"/>
 </p>
 
 # YVYC Claude Skills Library
@@ -15,21 +11,19 @@
 ## Purpose
 
 This repository documents practical AI prompting skills, techniques, and workflows
-collected from the open developer community and organized into structured skill modules.
+organized into structured skill modules for Claude users.
 
-The goal is to create a practical knowledge library for builders who want to improve
-prompt engineering, AI agent interaction, and developer workflows.
+The goal is a practical, free knowledge library for builders who want to get more
+out of Claude — without paywalls, sign-ups, or conversion pressure.
 
 ---
 
 ## What Is This?
 
-This is a free, open-source library of Claude AI skills — structured, ready-to-install
+A free, open-source library of Claude AI skills — structured, ready-to-install
 prompt instructions that extend what Claude can do.
 
-Every skill in this repo was curated, structured, and tested by **YVYC (Your Vision Your Creation)**.
-We take the best prompts shared publicly by creators across the internet and convert them
-into properly formatted Claude skills that you can install and use immediately.
+Every skill in this repo is curated, structured, and tested by **YVYC (Your Vision Your Creation)**.
 
 No paywalls. No sign-ups. No conversion pressure. Just skills.
 
@@ -63,15 +57,19 @@ YVYC-Claude-Skills/
 ├── README.md
 ├── LICENSE
 ├── _templates/
-│   ├── SKILL-template.md        ← blank skill template
-│   └── HOW-TO-USE-template.md   ← blank how-to-use template
+│   ├── SKILL-template.md
+│   └── HOW-TO-USE-template.md
 ├── design/
 │   └── [skill-name]/
 │       ├── SKILL.md
 │       └── HOW-TO-USE.md
 ├── marketing/
 ├── writing/
-└── productivity/
+├── productivity/
+└── agentic/
+    └── [skill-name]/
+        ├── SKILL.md
+        └── HOW-TO-USE.md
 ```
 
 ---
@@ -84,6 +82,7 @@ YVYC-Claude-Skills/
 | `marketing/` | Copywriting, campaign strategy, social media, growth |
 | `writing/` | Content creation, storytelling, editing, tone |
 | `productivity/` | Workflows, planning, task management, systems |
+| `agentic/` | AI governance, delegation, multi-agent safety, verification |
 
 ---
 
@@ -91,13 +90,28 @@ YVYC-Claude-Skills/
 
 | Category | Skills |
 |---|---|
-| Design | 0 |
+| Design | 7 (in progress) |
 | Marketing | 0 |
 | Writing | 0 |
 | Productivity | 0 |
-| **Total** | **0** |
+| Agentic | 1 |
+| **Total** | **8** |
 
 > This table is updated with every new skill added.
+> Skills marked "in progress" have folder structure in place — content publishing soon.
+
+---
+
+## About the Agentic Category
+
+The `agentic/` category is YVYC's original contribution to the Claude skills ecosystem.
+
+These skills are built from cutting-edge AI research and translated into practical,
+installable instructions for Claude users. No other public skills library is operating
+at this level.
+
+Current agentic skills are derived from:
+> Tomašev, N., Franklin, M., & Osindero, S. (2026). *Intelligent AI Delegation.* Google DeepMind.
 
 ---
 
@@ -107,8 +121,8 @@ Some prompts, ideas, or techniques documented in this repository originate from 
 broader developer and creator community (including discussions on public forums such
 as Facebook groups, GitHub discussions, and other open knowledge communities).
 
-Where original authors are known, attribution will be included within the relevant
-`SKILL.md` file.
+Where original authors are known, attribution is included within the relevant
+`HOW-TO-USE.md` file.
 
 If you believe your work has been referenced here without proper attribution, please
 contact the repository owner so it can be corrected.
@@ -129,7 +143,7 @@ The structuring, formatting, and skill architecture is original work by **YVYC**
 
 This library is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
-You are free to use, share, and adapt any skill in this repo — for personal or commercial 
+You are free to use, share, and adapt any skill in this repo — for personal or commercial
 purposes — as long as you give appropriate credit to **YourVisionYourCreation LLC**.
 
 | Content Type | License |
@@ -150,4 +164,3 @@ built to help creators, builders, and entrepreneurs move faster and think bigger
 🌐 [yourvisionyourcreation.com](https://www.yourvisionyourcreation.com)
 📧 [YVYCalways@yourvisionyourcreation.com](mailto:YVYCalways@yourvisionyourcreation.com)
 🐙 [github.com/Forexgod21](https://github.com/Forexgod21)
-
