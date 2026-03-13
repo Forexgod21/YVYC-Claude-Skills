@@ -94,8 +94,8 @@ YVYC-Claude-Skills/
 | Marketing | 0 |
 | Writing | 0 |
 | Productivity | 0 |
-| Agentic | 1 |
-| **Total** | **8** |
+| Agentic | 14 |
+| **Total** | **21** |
 
 > This table is updated with every new skill added.
 
