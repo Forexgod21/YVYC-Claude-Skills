@@ -135,7 +135,7 @@ YVYC-Claude-Skills/
 | Marketing | 0 |
 | Writing | 0 |
 | Productivity | 0 |
-| Agentic | 20 |
+| Agentic | 26 |
 | GodMode | 2 |
 | Trading | 0 |
 | Psychology | 0 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Recovery | 0 |
 | Security | 0 |
 | Research | 0 |
-| **Total** | **29** |
+| **Total** | **35** |
 
 > This table is updated with every new skill added.
 
