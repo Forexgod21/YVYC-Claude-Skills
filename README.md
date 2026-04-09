@@ -133,9 +133,9 @@ YVYC-Claude-Skills/
 |---|---|
 | Design | 7 |
 | Marketing | 0 |
-| Writing | 0 |
+| Writing | 2 |
 | Productivity | 0 |
-| Agentic | 26 |
+| Agentic | 27 |
 | GodMode | 2 |
 | Trading | 0 |
 | Psychology | 0 |
@@ -146,9 +146,35 @@ YVYC-Claude-Skills/
 | Recovery | 0 |
 | Security | 0 |
 | Research | 0 |
-| **Total** | **35** |
+| **Total** | **38** |
 
 > This table is updated with every new skill added.
+
+---
+
+## About the Writing Category
+
+The `writing/` category is YVYC original IP — frameworks and doctrines built
+from real writing, real academic work, and real deployments across the YVYC
+ecosystem.
+
+Current writing skills:
+
+- **`human-signal`** — Detects and removes AI writing patterns to restore
+  authentic human voice. Operates in rewrite mode (full correction) or scan
+  mode (flag only). Applies context profiles for LinkedIn, blog, technical,
+  investor, docs, and casual formats. Built from YVYC's original signal
+  restoration doctrine — not a vocabulary swap list, a full pattern detection
+  and voice recovery system.
+
+- **`scholar-practitioner`** — Executes graduate-level academic writing at
+  scholar-practitioner standard. Applies the adversarial evaluator gate,
+  theory-as-mechanism discipline, and dual-mode architecture (Execute and
+  Teach) across discussion posts, response posts, papers, and literature
+  reviews. Built from YVYC's original academic operating doctrine.
+
+All skills in this category carry attribution to **YourVisionYourCreation LLC**
+as the originating source.
 
 ---
 
@@ -165,10 +191,16 @@ Current agentic skills are organized across four tiers:
 - **Tier 1 — Foundation** (Skills 1–7): Core delegation, verification, and safety primitives
 - **Tier 2 — Intermediate** (Skills 8–14): Trust architecture, permission handling, and multi-agent dynamics
 - **Tier 3 — Ecosystem** (Skills 15–20): Governance, capability preservation, and social intelligence
-- **Tier 4 — Research-Derived** (Skills 21–26): Upcoming — value alignment, utility drift, and emergent behavior detection
+- **Tier 4 — Research-Derived** (Skills 21–26): Value alignment, utility drift, and emergent behavior detection
 
-Current agentic skills are derived from:
+Skills 1–26 are derived from:
 > Tomašev, N., Franklin, M., & Osindero, S. (2026). *Intelligent AI Delegation.* Google DeepMind.
+
+**`operator-realignment`** (Skill 27) is YVYC original — built from the YVYC
+Operator Profile doctrine. It defines the protocol for loading an operator
+profile and immediately calibrating agent behavior to the baseline it defines,
+including the Pace ≠ Capability doctrine, the JumpMaster escalation rule, and
+the Append-Only Thought Log pattern.
 
 ---
 
