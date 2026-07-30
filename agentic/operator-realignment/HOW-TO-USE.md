@@ -33,7 +33,7 @@ Load my operator profile. [attach or paste file]
 Realign. [when drift is detected mid-session]
 ```
 ```
-Read CADE-Operator-Profile.md and operate from it.
+Read YVYC-Operator-Profile.md and operate from it.
 ```
 
 ---
@@ -119,8 +119,8 @@ Use the eight required sections as your template. Key principles:
 - Write the Must-Not List as hard rules, not preferences
 - The Thought Log starts empty and grows append-only over time
 
-For a complete example, see `CADE-Operator-Profile.md` in the
-YVYC-Claude-Skills repository.
+Name the file after your operation, not yourself — e.g.
+`YVYC-Operator-Profile.md` — and follow the structure above.
 
 ---
 
