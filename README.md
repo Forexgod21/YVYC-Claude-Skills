@@ -133,7 +133,7 @@ YVYC-Claude-Skills/
 |---|---|
 | Design | 7 |
 | Marketing | 0 |
-| Writing | 2 |
+| Writing | 3 |
 | Productivity | 1 |
 | Agentic | 32 |
 | GodMode | 5 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Recovery | 0 |
 | Security | 1 |
 | Research | 0 |
-| **Total** | **49** |
+| **Total** | **50** |
 
 > This table is updated with every new skill added.
 
@@ -172,6 +172,13 @@ Current writing skills:
   theory-as-mechanism discipline, and dual-mode architecture (Execute and
   Teach) across discussion posts, response posts, papers, and literature
   reviews. Built from YVYC's original academic operating doctrine.
+
+- **`scholar-practitioner-tempo`** — The program-calibrated edition of
+  scholar-practitioner: the same doctrine locked onto a specific graduate
+  program (Walden MS I/O Psychology → PhD) with APA 7 precision, rubric-
+  dominant execution, a pre-loaded I/O theory canon behind a strict
+  citation guard, and 90-day sprint discipline. Also serves as the
+  reference template for building your own program-calibrated edition.
 
 All skills in this category carry attribution to **YourVisionYourCreation LLC**
 as the originating source.
