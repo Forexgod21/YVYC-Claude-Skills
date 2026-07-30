@@ -136,7 +136,7 @@ YVYC-Claude-Skills/
 | Dev | 7 |
 | Education | 0 |
 | GodMode | 5 |
-| Marketing | 0 |
+| Marketing | 1 |
 | Nonprofit | 1 |
 | Productivity | 1 |
 | Psychology | 2 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Security | 2 |
 | Trading | 0 |
 | Writing | 6 |
-| **Total** | **66** |
+| **Total** | **67** |
 
 > This table is updated with every new skill added.
 
@@ -251,6 +251,18 @@ ceiling, and the truth floor, locked for the whole session.
 | [`elite-output-standard`](godmode/elite-output-standard/) | Locks output quality at the ceiling — no downscaling for task size, tone, or session length |
 | [`framework-genesis`](godmode/framework-genesis/) | Original framework construction when no sufficient framework exists for the problem |
 | [`mastermind-standard`](godmode/mastermind-standard/) | The GodMode master skill: full-capability operating state, zero drift, bounded only by law and ethics |
+
+### Marketing
+
+**So What:** A brand that lives in one person's head dies the moment the
+work gets delegated — every new writer, channel, and AI tool approximates
+it a little differently until it sounds like a committee. These skills
+convert marketing instinct into written, enforceable doctrine that
+survives scale.
+
+| Skill | What It Does |
+|---|---|
+| [`brand-voice-codex`](marketing/brand-voice-codex/) | Voice as transmittable doctrine: character vs tone, this-not-that fences, tone maps, drift watch |
 
 ### Nonprofit
 

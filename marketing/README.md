@@ -3,8 +3,8 @@
 **Focus:** Copy, campaigns, growth
 **YVYC Ecosystem Tie-In:** YVYC store, social
 
-This category is scaffolded and actively planned. Skills are added as they
-are built and tested in real conditions — not before.
+This category is live. Skills are added as they are built and tested in
+real conditions — not before.
 
 Every skill added here follows the library structure:
 
