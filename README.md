@@ -593,27 +593,22 @@ The `productivity/` category is live:
 
 ---
 
-## Community Contribution Notice
-
-Some prompts, ideas, or techniques documented in this repository originate from the
-broader developer and creator community (including discussions on public forums such
-as Facebook groups, GitHub discussions, and other open knowledge communities).
-
-Where original authors are known, attribution is included within the relevant
-`HOW-TO-USE.md` file.
-
-If you believe your work has been referenced here without proper attribution, please
-contact the repository owner so it can be corrected.
-
----
-
 ## Credits & Attribution
 
-Skills in this library are built on prompts shared publicly by creators across the
-internet. Where a prompt has a known original source, it is credited inside the
-individual `HOW-TO-USE.md` file.
+The overwhelming majority of the skills in this library are **original work by
+YourVisionYourCreation LLC** — doctrines, frameworks, and operating systems
+built from YVYC's own projects, research, academic work, and real deployments
+across the YVYC ecosystem. Each skill carries its attribution in its own
+`SKILL.md` frontmatter.
 
-The structuring, formatting, and skill architecture is original work by **YVYC**.
+A small number of skills adapt or build on ideas shared publicly by the broader
+developer and creator community, or on published research. Where an outside
+source is known, it is credited inside that skill's own files (`SKILL.md` or
+`HOW-TO-USE.md`). If you believe your work has been referenced here without
+proper attribution, contact the repository owner so it can be corrected.
+
+The structuring, formatting, and skill architecture of the entire library is
+original work by **YVYC**.
 
 The GodMode operating state protocol is original intellectual property of
 **YourVisionYourCreation LLC** (on record: May 4, 2025).
