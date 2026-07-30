@@ -144,9 +144,9 @@ YVYC-Claude-Skills/
 | Recovery | 3 |
 | Research | 0 |
 | Security | 2 |
-| Trading | 0 |
+| Trading | 1 |
 | Writing | 6 |
-| **Total** | **89** |
+| **Total** | **90** |
 
 > This table is updated with every new skill added.
 
@@ -342,6 +342,18 @@ findings.
 |---|---|
 | [`security-review-v2`](security/security-review-v2/) | Structured red-team security review: exploit paths, fixes, and verification — evidence-first |
 | [`security-reviewer`](security/security-reviewer/) | Hands-on code security execution: trust boundaries, OWASP walk, CWE findings with exploit paths and fixes |
+
+### Trading
+
+**So What:** Markets punish exactly the biases that feel like conviction —
+the pattern seen because money is on the line, the count relabeled to keep
+a thesis alive. These skills encode trading discipline as protocol:
+structure-defined invalidation, honest timeframes, and reads that survive
+an adversarial pass.
+
+| Skill | What It Does |
+|---|---|
+| [`chart-pattern-discipline`](trading/chart-pattern-discipline/) | Top-down chart reads: context before pattern, forming vs confirmed, invalidation on every call |
 
 ### Writing
 
