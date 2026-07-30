@@ -1,7 +1,7 @@
 # Trading — YVYC Claude Skills
 
 **Focus:** Elliott Wave, forex, Pine Script
-**YVYC Ecosystem Tie-In:** C.A.D.E. Method, forex work
+**YVYC Ecosystem Tie-In:** Forex work
 
 This category is live. Skills are added as they are built and tested in
 real conditions — not before.

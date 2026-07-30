@@ -115,12 +115,12 @@ YVYC-Claude-Skills/
 | `marketing/` | Copy, campaigns, growth | YVYC store, social |
 | `nonprofit/` | Grant writing, advocacy, community | Veteran work, disaster relief |
 | `productivity/` | Workflows, planning, systems | General ecosystem |
-| `psychology/` | I/O psych, behavioral frameworks | Walden studies, NSBW framework |
+| `psychology/` | I/O psych, behavioral frameworks | C.A.D.E. Method, Walden studies, NSBW framework |
 | `publishing/` | Children's books, manuscript, editorial | Luna Universe series |
 | `recovery/` | PRSS workflows, peer support | Veteran advocacy |
 | `research/` | Academic writing, citation, synthesis | Walden grad work |
 | `security/` | Threat modeling, hardening, review | GEAR UP Phase 2 |
-| `trading/` | Elliott Wave, forex, Pine Script | C.A.D.E. Method, forex work |
+| `trading/` | Elliott Wave, forex, Pine Script | Forex work |
 | `writing/` | Content, storytelling, editing | Luna books, Don't Feed the Trolls |
 
 > Categories marked with 0 skills are scaffolded and actively planned. Skills are added as they are built and tested.

@@ -1,7 +1,7 @@
 # Psychology — YVYC Claude Skills
 
 **Focus:** I/O psych, behavioral frameworks
-**YVYC Ecosystem Tie-In:** Walden studies, NSBW framework
+**YVYC Ecosystem Tie-In:** C.A.D.E. Method, Walden studies, NSBW framework
 
 This category is live. Skills are added as they are built and tested in
 real conditions — not before.
