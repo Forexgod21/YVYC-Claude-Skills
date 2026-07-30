@@ -138,7 +138,7 @@ YVYC-Claude-Skills/
 | GodMode | 5 |
 | Marketing | 3 |
 | Nonprofit | 1 |
-| Productivity | 1 |
+| Productivity | 2 |
 | Psychology | 2 |
 | Publishing | 0 |
 | Recovery | 0 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Security | 2 |
 | Trading | 0 |
 | Writing | 6 |
-| **Total** | **77** |
+| **Total** | **78** |
 
 > This table is updated with every new skill added.
 
@@ -293,6 +293,7 @@ systems — spreadsheets, trackers, workflows — fast, durable, and maintainabl
 
 | Skill | What It Does |
 |---|---|
+| [`doctrine-room-architecture`](productivity/doctrine-room-architecture/) | The governance meta-layer for multi-project operations: rule lifecycle, decision ledger, one canon |
 | [`google-sheets`](productivity/google-sheets/) | 30-section elite reference for Google Sheets automation and Apps Script |
 
 ### Psychology
