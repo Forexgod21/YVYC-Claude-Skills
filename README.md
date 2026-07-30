@@ -382,12 +382,26 @@ ecosystem.
 
 Current writing skills:
 
+- **`authentic-voice-development`** — Finds a writer's individual voice by
+  subtraction: strips borrowed registers, works from perception before style,
+  and calibrates to the sharp-friend register — the voice you'd actually use
+  with someone whose intelligence you respect.
+
 - **`human-signal`** — Detects and removes AI writing patterns to restore
   authentic human voice. Operates in rewrite mode (full correction) or scan
   mode (flag only). Applies context profiles for LinkedIn, blog, technical,
   investor, docs, and casual formats. Built from YVYC's original signal
   restoration doctrine — not a vocabulary swap list, a full pattern detection
   and voice recovery system.
+
+- **`narrative-spine-architecture`** — Structure before prose: every piece
+  gets a one-sentence spine, nested tension loops, and a load-bearing order
+  of parts — then the spine test verifies each section still serves the one
+  thing the piece is about.
+
+- **`prose-precision-protocol`** — Line editing by subtraction: cuts
+  dilution, frees buried verbs, lands the strong word at the point of
+  emphasis, and guards the writer's voice while doing it.
 
 - **`scholar-practitioner`** — Executes graduate-level academic writing at
   scholar-practitioner standard. Applies the adversarial evaluator gate,
@@ -415,26 +429,35 @@ These skills are built from cutting-edge AI research and translated into practic
 installable instructions for Claude users. No other public skills library is operating
 at this level.
 
-Current agentic skills are organized across five tiers:
+The research-derived skills are organized across five tiers:
 
-- **Tier 1 — Foundation** (Skills 1–7): Core delegation, verification, and safety primitives
-- **Tier 2 — Intermediate** (Skills 8–14): Trust architecture, permission handling, and multi-agent dynamics
-- **Tier 3 — Ecosystem** (Skills 15–20): Governance, capability preservation, and social intelligence
-- **Tier 4 — Research-Derived** (Skills 21–26): Value alignment, utility drift, and emergent behavior detection
-- **Tier 5 — Surface Doctrine** (Skills 28–33): YVYC-original operating discipline for Chat, CoWork, and Code
+- **Tier 1 — Foundation**: Core delegation, verification, and safety primitives
+- **Tier 2 — Intermediate**: Trust architecture, permission handling, and multi-agent dynamics
+- **Tier 3 — Ecosystem**: Governance, capability preservation, and social intelligence
+- **Tier 4 — Research-Derived**: Value alignment, utility drift, and emergent behavior detection
+- **Tier 5 — Frontier**: Defenses for the newest failure modes of deployed
+  agents — context compaction integrity, memory poisoning, personalization
+  safety, governance decay, runtime delegation, scope attenuation, error
+  attribution, and agent contract specification
 
-Skills 1–26 are derived from:
+Tiers 1–4 are derived from:
 > Tomašev, N., Franklin, M., & Osindero, S. (2026). *Intelligent AI Delegation.* Google DeepMind.
 
-**`operator-realignment`** (Skill 27) is YVYC original — built from the YVYC
-Operator Profile doctrine. It defines the protocol for loading an operator
-profile and immediately calibrating agent behavior to the baseline it defines,
-including the Pace ≠ Capability doctrine, the JumpMaster escalation rule, and
-the Append-Only Thought Log pattern.
+Tier 5 skills are anchored to current agent-safety research and carry their
+sources in their own files.
 
-**Tier 5 — Surface Doctrine** is YVYC original — the operating discipline
-suite for working across Anthropic's three surfaces (Chat, CoWork, and Code)
-without scope drift, false confidence, or unnecessary secret requests:
+Alongside the tiered research skills, the category carries YVYC-original
+operating doctrines, including:
+
+**`operator-realignment`** — built from the YVYC Operator Profile doctrine.
+It defines the protocol for loading an operator profile and immediately
+calibrating agent behavior to the baseline it defines, including the
+Pace ≠ Capability doctrine, the JumpMaster escalation rule, and the
+Append-Only Thought Log pattern.
+
+**The Surface Doctrine suite** — YVYC-original operating discipline for
+working across Anthropic's three surfaces (Chat, CoWork, and Code) without
+scope drift, false confidence, or unnecessary secret requests:
 
 - **`shared-kernel`** — the foundation layer every doctrine skill inherits:
   surface awareness, evidence-before-conclusions, working modes, and secret
@@ -452,8 +475,13 @@ without scope drift, false confidence, or unnecessary secret requests:
 - **`cowork-runtime-gatekeeper-v2`** — gates the jump from repo work into
   runtime work; no secret is requested before local files are checked
 
-All Tier 5 skills carry attribution to **YourVisionYourCreation LLC** as the
-originating source.
+Further YVYC-original doctrines in the category — including
+`stand-and-fix-doctrine`, `authority-stack-doctrine`, `agent-stack-org-design`,
+`agent-observability-doctrine`, and `correction-conversion-protocol` — are
+indexed in the Skill Index above.
+
+All YVYC-original skills carry attribution to **YourVisionYourCreation LLC**
+as the originating source.
 
 ---
 
@@ -470,12 +498,12 @@ responses are insufficient. It removes the artificial ceiling between safety bou
 and maximum capability. Everything within law and ethics is available. Everything above
 average is expected.
 
+The master doctrine lives in **`mastermind-standard`** — the GodMode master
+skill: full-capability operating state, zero drift, bounded only by law and
+ethics.
+
 Current godmode skills beyond the master doctrine:
 
-- **`elite-output-standard`** — locks output quality at the ceiling of model
-  capability and prevents any drift downward: no "simple task" downscaling,
-  no tonal softening, no scaffolding, no hedged recommendations. The user
-  chases the output ceiling — the ceiling never chases the user.
 - **`commit-or-concede`** — the truth floor that pairs with the quality
   ceiling. Every answer is either a committed, checkable claim or an honest
   "I don't know" — never the third thing that sounds complete while
@@ -483,6 +511,12 @@ Current godmode skills beyond the master doctrine:
 - **`distress-mode-v2`** — reduces cognitive overload on signal: stops option
   sprawl and returns exactly one next action, one short checklist, and one
   success condition.
+- **`elite-output-standard`** — locks output quality at the ceiling of model
+  capability and prevents any drift downward: no "simple task" downscaling,
+  no tonal softening, no scaffolding, no hedged recommendations. The user
+  chases the output ceiling — the ceiling never chases the user.
+- **`framework-genesis`** — original framework construction for when no
+  sufficient framework exists for the problem in front of you.
 
 Future skills added to this category are derived from YVYC's original behavioral
 frameworks and coined concepts — including *Digital Scarcity Psychology*,
@@ -496,9 +530,17 @@ originating source of the doctrine.
 
 ## About the Nonprofit Category
 
-The `nonprofit/` category is now live with its first skill — YVYC original,
-distilled from real veteran advocacy work and fully generalized for public
+The `nonprofit/` category is live — YVYC original, distilled from real
+mission-driven and veteran advocacy work and fully generalized for public
 use:
+
+- **`advocacy-campaign-doctrine`** — campaign architecture for advocacy
+  work: theory of change, power mapping, coalition discipline, and the
+  escalation ladder that keeps a campaign strategic instead of reactive.
+
+- **`grant-narrative-architecture`** — builds grant narratives that fund:
+  the funder's logic model mirrored back, evidence placed where reviewers
+  score it, and a narrative spine that survives the word limit.
 
 - **`military-records-strategist`** — a records-correction and
   discharge-upgrade strategist covering the full path from DRB and BCMR
@@ -509,30 +551,45 @@ use:
   discipline. No personal case data ships with the skill — the doctrine is
   public, your case stays yours.
 
+- **`program-logic-model`** — the inputs → activities → outputs → outcomes
+  → impact chain, built so every arrow is an explicit, testable assumption
+  rather than a hope.
+
 ---
 
 ## About the Security Category
 
-The `security/` category is now live with its first skill — YVYC original,
-tied to GEAR UP Phase 2:
+The `security/` category is live — YVYC original:
 
 - **`security-review-v2`** — structured, red-team style security review
   grounded in inspected artifacts. Every finding ships with an exploit path,
   impact, a fix mapped to a concrete enforcement layer, and the verification
   required to prove the fix. Concerns without evidence are labeled
-  `Verification gap`, never promoted to vulnerabilities.
+  `Verification gap`, never promoted to vulnerabilities. Tied to GEAR UP
+  Phase 2.
+
+- **`security-reviewer`** — hands-on code security execution: trust-boundary
+  mapping, an OWASP walk of the codebase, and CWE-tagged findings that each
+  ship with an exploit path and a fix.
 
 ---
 
 ## About the Productivity Category
 
-The `productivity/` category is now live with its first skill:
+The `productivity/` category is live:
+
+- **`doctrine-room-architecture`** — the governance meta-layer for
+  multi-project operations: rule lifecycle, a decision ledger, and one
+  canon that every project inherits from instead of forking.
 
 - **`google-sheets`** — a complete, 30-section elite reference for Google
   Sheets automation and Google Apps Script: batch read/write performance,
   triggers, sidebars, custom functions, workspace integrations, Clasp
   deployment, and the tracker-system patterns behind YVYC's TEMPO OS and
   Blast Plan builds.
+
+- **`output-ceiling-lock`** — one quality standard, zero conditions: scope
+  scales with the task, the standard never does.
 
 ---
 
