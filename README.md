@@ -133,7 +133,7 @@ YVYC-Claude-Skills/
 |---|---|
 | Agentic | 35 |
 | Design | 7 |
-| Dev | 5 |
+| Dev | 6 |
 | Education | 0 |
 | GodMode | 5 |
 | Marketing | 0 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Security | 1 |
 | Trading | 0 |
 | Writing | 3 |
-| **Total** | **60** |
+| **Total** | **61** |
 
 > This table is updated with every new skill added.
 
@@ -234,6 +234,7 @@ and the failure-mode tables that turn debugging from guessing into lookup.
 | [`devops-sre`](dev/devops-sre/) | Production operations: Kubernetes, Terraform, CI/CD gates, SLOs, and rollback-first change discipline |
 | [`discord-platform-expert`](dev/discord-platform-expert/) | Discord bots that survive the real platform: intents, 3s ack windows, rate buckets, sharding, OAuth2 |
 | [`embedded-systems`](dev/embedded-systems/) | Firmware and RTOS discipline: ISR rules, DMA cache maintenance, bringup order, HardFault diagnosis |
+| [`feature-forge`](dev/feature-forge/) | Greenfield design sequence: job-to-be-done, constraints, data model, API contract, phased delivery |
 
 ### GodMode
 
