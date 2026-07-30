@@ -1,5 +1,6 @@
 ---
 name: brand-visual-identity-builder
+category: design
 description: >
   Use this skill whenever the user needs a complete visual identity system for a brand.
   Triggers when the user asks to build a brand identity, define brand colors, create

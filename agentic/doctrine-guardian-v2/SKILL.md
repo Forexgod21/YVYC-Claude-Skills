@@ -1,5 +1,6 @@
 ---
 name: doctrine-guardian-v2
+category: agentic
 description: Enforces scope discipline, evidence-first reasoning, surface awareness, and approval boundaries before analysis, implementation, runtime setup, or release actions.
 ---
 

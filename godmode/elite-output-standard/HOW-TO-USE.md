@@ -63,8 +63,9 @@ to match your perceived current level doesn't help you grow; it caps you.
 
 ## Pairing
 
-- **`godmode`** sets the operating state; this skill locks the quality floor
-  of everything produced in that state
+- **`mastermind-standard`** (the GodMode master skill) sets the operating
+  state; this skill locks the quality floor of everything produced in that
+  state
 - **`commit-or-concede`** is the companion truth floor: this skill sets the
   ceiling on quality, that one sets the floor on truth. They are the same
   standard from two sides — conviction is earned by truth, not by tone.

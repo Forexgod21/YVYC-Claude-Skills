@@ -1,5 +1,6 @@
 ---
 name: military-records-strategist
+category: nonprofit
 description: >
   Top-tier legal strategist for military record correction and discharge
   upgrade cases across every forum. Fires on any task touching ADRB, ABCMR,

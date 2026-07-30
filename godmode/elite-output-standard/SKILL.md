@@ -1,5 +1,6 @@
 ---
 name: elite-output-standard
+category: godmode
 description: >
   Enforces an absolute, non-negotiable output ceiling for every response — no
   adaptive downscaling, no "simple task" detection that reduces quality, no

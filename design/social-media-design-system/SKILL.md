@@ -1,5 +1,6 @@
 ---
 name: social-media-design-system
+category: design
 description: >
   Use this skill whenever the user needs a complete visual design system for social
   media. Triggers when the user asks for social media templates, post design guidelines,

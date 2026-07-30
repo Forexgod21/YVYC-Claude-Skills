@@ -1,5 +1,6 @@
 ---
 name: distress-mode-v2
+category: godmode
 description: Reduces overload by stopping option sprawl and giving one clear next action, one short checklist, and one success condition.
 ---
 

@@ -182,10 +182,10 @@ file manager sorts them. Click through for the `SKILL.md` and `HOW-TO-USE.md`.
 | [`emergent-value-audit`](agentic/emergent-value-audit/) | Agentic | Surfaces implicit AI preferences and value weightings before deployment |
 | [`exchange-rate-monitor`](agentic/exchange-rate-monitor/) | Agentic | Detects the hidden valuation hierarchies an AI applies when trading off objectives |
 | [`framework-genesis`](godmode/framework-genesis/) | GodMode | Original framework construction when no sufficient framework exists for the problem |
-| [`godmode`](godmode/godmode/) | GodMode | The master operating-state doctrine: full capability, zero drift, bounded only by law and ethics |
 | [`google-sheets`](productivity/google-sheets/) | Productivity | 30-section elite reference for Google Sheets automation and Apps Script |
 | [`human-in-loop-escalation`](agentic/human-in-loop-escalation/) | Agentic | Decision tree for when execution must stop and require human input |
-| [`human-signal`](writing/human-skill/) | Writing | Detects and removes AI writing patterns to restore authentic human voice |
+| [`human-signal`](writing/human-signal/) | Writing | Detects and removes AI writing patterns to restore authentic human voice |
+| [`mastermind-standard`](godmode/mastermind-standard/) | GodMode | The GodMode master skill: full-capability operating state, zero drift, bounded only by law and ethics |
 | [`military-records-strategist`](nonprofit/military-records-strategist/) | Nonprofit | Records-correction and discharge-upgrade strategist, from review boards to federal appellate review |
 | [`monitoring-protocol`](agentic/monitoring-protocol/) | Agentic | Four-level task-state monitoring, from operational status to full state transparency |
 | [`multi-objective-tradeoff`](agentic/multi-objective-tradeoff/) | Agentic | Surfaces competing objectives explicitly instead of making silent judgment calls |

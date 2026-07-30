@@ -1,5 +1,6 @@
 ---
 name: complete-design-system-brand-guidelines
+category: design
 description: >
   Use this skill whenever the user needs a complete, documented design system and
   brand guidelines document. Triggers when the user asks for brand guidelines, a

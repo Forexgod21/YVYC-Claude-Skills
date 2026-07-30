@@ -1,5 +1,6 @@
 ---
 name: cowork-repo-bootstrap-v2
+category: agentic
 description: Starts every CoWork session by inspecting repo state, local machine state, and runtime blockers before requesting user input.
 ---
 

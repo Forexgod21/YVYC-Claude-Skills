@@ -1,5 +1,6 @@
 ---
 name: reputation-signal
+category: agentic
 description: >
   Use this skill whenever the user needs to track, evaluate, or act on the
   reliability history of an AI agent or human-AI team member over time. Triggers

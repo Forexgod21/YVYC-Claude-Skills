@@ -1,5 +1,6 @@
 ---
 name: code-verification-guard-v2
+category: agentic
 description: Enforces implementation discipline, modern best practices, justified innovation, and post-change verification for the Code surface.
 ---
 

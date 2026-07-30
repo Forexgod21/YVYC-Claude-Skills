@@ -1,5 +1,6 @@
 ---
 name: presentation-pitch-deck-designer
+category: design
 description: >
   Use this skill whenever the user needs complete visual design direction for a
   presentation or pitch deck. Triggers when the user asks for pitch deck design,

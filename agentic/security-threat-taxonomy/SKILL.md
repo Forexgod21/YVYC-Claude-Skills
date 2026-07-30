@@ -1,5 +1,6 @@
 ---
 name: security-threat-taxonomy
+category: agentic
 description: >
   Use this skill whenever the user needs to identify, classify, or respond to
   security threats specific to agentic AI systems. Triggers when the user asks

@@ -1,5 +1,6 @@
 ---
 name: social-intelligence-delegate
+category: agentic
 description: >
   Use this skill whenever the user needs to determine how AI agents should handle
   context-sensitive human interactions — knowing when to proceed, when to pause,

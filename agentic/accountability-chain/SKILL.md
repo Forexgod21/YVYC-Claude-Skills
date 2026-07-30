@@ -1,5 +1,6 @@
 ---
 name: accountability-chain
+category: agentic
 description: >
   Use this skill whenever the user needs to trace a decision, action, or failure
   back to the responsible principal in a multi-agent AI system. Triggers when the

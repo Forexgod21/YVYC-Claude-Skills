@@ -1,5 +1,6 @@
 ---
 name: design-simplification-impact-editor
+category: design
 description: >
   Use this skill whenever the user needs an existing design brief, visual concept,
   or creative direction ruthlessly edited for maximum visual impact. Triggers when

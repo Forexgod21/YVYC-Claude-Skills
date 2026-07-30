@@ -1,5 +1,6 @@
 ---
 name: commit-or-concede
+category: godmode
 description: >
   Enforces reasoning integrity on every response: commit to a checkable answer
   or concede "I don't know" — never the third thing. Kills the failure pattern

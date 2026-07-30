@@ -1,5 +1,6 @@
 ---
 name: cowork-runtime-gatekeeper-v2
+category: agentic
 description: Prevents CoWork from entering emulator, OAuth, broker, or external integration setup without explicit user authorization and local file inspection.
 ---
 

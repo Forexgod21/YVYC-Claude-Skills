@@ -1,5 +1,6 @@
 ---
 name: complete-design-strategy-blueprint
+category: design
 description: >
   Use this skill whenever the user needs a complete visual design strategy for a brand,
   topic, or project. Triggers when the user asks for a design strategy, visual direction,

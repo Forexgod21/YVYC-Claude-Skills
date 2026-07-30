@@ -1,5 +1,6 @@
 ---
 name: chat-strategy-guide-v2
+category: agentic
 description: Guides the Chat surface to think clearly, teach clearly, and separate reasoning from execution without pretending it has local repo or runtime access.
 ---
 

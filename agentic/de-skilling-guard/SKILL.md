@@ -1,5 +1,6 @@
 ---
 name: de-skilling-guard
+category: agentic
 description: >
   Use this skill whenever the user needs to detect, prevent, or reverse the erosion
   of human capability caused by over-reliance on AI agents. Triggers when the user

@@ -1,5 +1,6 @@
 ---
 name: google-sheets
+category: productivity
 description: >
   Use this skill for ANY task involving Google Sheets or Google Apps Script (.gs files).
   Triggers include: reading, writing, formatting, or analyzing spreadsheet data;

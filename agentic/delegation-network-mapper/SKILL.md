@@ -1,5 +1,6 @@
 ---
 name: delegation-network-mapper
+category: agentic
 description: >
   Use this skill whenever the user needs to map, analyze, or design the trust and
   authority structure across a multi-agent AI system. Triggers when the user asks

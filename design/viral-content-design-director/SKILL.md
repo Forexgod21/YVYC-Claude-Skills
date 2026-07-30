@@ -1,5 +1,6 @@
 ---
 name: viral-content-design-director
+category: design
 description: >
   Use this skill whenever the user needs complete design direction for multiple pieces
   of content intended to stop the scroll and generate high engagement. Triggers when

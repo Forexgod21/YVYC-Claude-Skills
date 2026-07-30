@@ -1,5 +1,6 @@
 ---
 name: shared-kernel
+category: agentic
 description: This skill must behave according to platform surface, evidence discipline, and scope discipline.
 ---
 

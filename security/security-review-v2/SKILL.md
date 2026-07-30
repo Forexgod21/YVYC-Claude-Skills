@@ -1,5 +1,6 @@
 ---
 name: security-review-v2
+category: security
 description: Performs structured security review and red-team style analysis with evidence-first findings, exploit paths, fixes, and verification requirements.
 ---
 
