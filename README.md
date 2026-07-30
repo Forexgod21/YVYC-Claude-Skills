@@ -131,7 +131,7 @@ YVYC-Claude-Skills/
 
 | Category | Skills |
 |---|---|
-| Agentic | 46 |
+| Agentic | 47 |
 | Design | 7 |
 | Dev | 7 |
 | Education | 0 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Security | 2 |
 | Trading | 0 |
 | Writing | 6 |
-| **Total** | **82** |
+| **Total** | **83** |
 
 > This table is updated with every new skill added.
 
@@ -207,6 +207,7 @@ verified, inside their authority, and aligned with the human they serve.
 | [`shared-kernel`](agentic/shared-kernel/) | The federation's common spine: evidence-first, zero-defect output, scope discipline, verification gates |
 | [`social-intelligence-delegate`](agentic/social-intelligence-delegate/) | Determines when agents proceed, pause, or hand off context-sensitive human interactions |
 | [`span-of-control`](agentic/span-of-control/) | Defines and enforces the agent's reliable operational limit before parallel work |
+| [`stand-and-fix-doctrine`](agentic/stand-and-fix-doctrine/) | Diagnosis before verdict on every challenge: fix wrong work at the root, defend right work with evidence |
 | [`trust-calibration`](agentic/trust-calibration/) | Honest self-assessment of confidence and capability before accepting a task |
 | [`utility-control-protocol`](agentic/utility-control-protocol/) | Redirects an AI system's optimization behavior back to sanctioned targets |
 | [`utility-drift-detector`](agentic/utility-drift-detector/) | Detects when an AI system's values or optimization targets have shifted from intent |
