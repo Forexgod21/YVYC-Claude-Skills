@@ -139,14 +139,14 @@ YVYC-Claude-Skills/
 | Marketing | 0 |
 | Nonprofit | 1 |
 | Productivity | 1 |
-| Psychology | 1 |
+| Psychology | 2 |
 | Publishing | 0 |
 | Recovery | 0 |
 | Research | 0 |
 | Security | 1 |
 | Trading | 0 |
 | Writing | 3 |
-| **Total** | **54** |
+| **Total** | **55** |
 
 > This table is updated with every new skill added.
 
@@ -267,6 +267,7 @@ rigor as the code.
 | Skill | What It Does |
 |---|---|
 | [`algorithmic-management-audit`](psychology/algorithmic-management-audit/) | Six-lane audit of any system that manages people: control functions, contestability, gaming paths, override integrity |
+| [`motivation-architecture`](psychology/motivation-architecture/) | Audits motivation as a structure, not a quantity: three-needs scoring, internalization continuum, intervention prediction |
 
 ### Security
 
