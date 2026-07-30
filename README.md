@@ -131,7 +131,7 @@ YVYC-Claude-Skills/
 
 | Category | Skills |
 |---|---|
-| Agentic | 37 |
+| Agentic | 38 |
 | Design | 7 |
 | Dev | 7 |
 | Education | 0 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Security | 2 |
 | Trading | 0 |
 | Writing | 6 |
-| **Total** | **71** |
+| **Total** | **72** |
 
 > This table is updated with every new skill added.
 
@@ -186,6 +186,7 @@ verified, inside their authority, and aligned with the human they serve.
 | [`emergent-value-audit`](agentic/emergent-value-audit/) | Surfaces implicit AI preferences and value weightings before deployment |
 | [`exchange-rate-monitor`](agentic/exchange-rate-monitor/) | Detects the hidden valuation hierarchies an AI applies when trading off objectives |
 | [`human-in-loop-escalation`](agentic/human-in-loop-escalation/) | Decision tree for when execution must stop and require human input |
+| [`memory-poisoning-defense`](agentic/memory-poisoning-defense/) | Defends persistent memory: provenance-gated writes, quarantine, retrieval hygiene, versioned rollback |
 | [`monitoring-protocol`](agentic/monitoring-protocol/) | Four-level task-state monitoring, from operational status to full state transparency |
 | [`multi-objective-tradeoff`](agentic/multi-objective-tradeoff/) | Surfaces competing objectives explicitly instead of making silent judgment calls |
 | [`operator-realignment`](agentic/operator-realignment/) | Loads an operator profile and calibrates agent behavior to its baseline immediately |
