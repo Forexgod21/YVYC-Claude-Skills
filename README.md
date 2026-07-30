@@ -133,7 +133,7 @@ YVYC-Claude-Skills/
 |---|---|
 | Agentic | 35 |
 | Design | 7 |
-| Dev | 3 |
+| Dev | 4 |
 | Education | 0 |
 | GodMode | 5 |
 | Marketing | 0 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Security | 1 |
 | Trading | 0 |
 | Writing | 3 |
-| **Total** | **58** |
+| **Total** | **59** |
 
 > This table is updated with every new skill added.
 
@@ -232,6 +232,7 @@ and the failure-mode tables that turn debugging from guessing into lookup.
 | [`angular-architect`](dev/angular-architect/) | Modern Angular architecture: standalone components, signals, OnPush, typed forms, SSR hydration, Nx |
 | [`debugging-wizard`](dev/debugging-wizard/) | Seven-phase root-cause protocol: reproduce, observe, hypothesize, bisect, instrument, fix, verify |
 | [`devops-sre`](dev/devops-sre/) | Production operations: Kubernetes, Terraform, CI/CD gates, SLOs, and rollback-first change discipline |
+| [`discord-platform-expert`](dev/discord-platform-expert/) | Discord bots that survive the real platform: intents, 3s ack windows, rate buckets, sharding, OAuth2 |
 
 ### GodMode
 
