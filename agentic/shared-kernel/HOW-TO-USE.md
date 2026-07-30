@@ -3,78 +3,69 @@
 **Skill:** `shared-kernel`
 **Category:** Agentic
 **Author:** YourVisionYourCreation LLC
-**Version:** 1.0
+**Version:** 2.0
 **License:** CC BY 4.0
 
 ---
 
 ## What This Skill Does
 
-Shared Kernel is the foundation layer of the YVYC Surface Doctrine suite. It
-defines the rules every other doctrine skill inherits: surface awareness,
-evidence discipline, scope discipline, and secret handling.
+Shared Kernel is the common spine of the YVYC skill federation — the
+universal engineering discipline that loads before any specialist skill.
+It enforces the posture that applies regardless of language, framework, or
+platform: evidence before assumption, zero-defect output, scope
+discipline, absolute security boundaries, verification gates before any
+"done," and a no-filler output contract.
 
-It teaches Claude three things that default behavior gets wrong:
-
-1. **Anthropic surfaces are not interchangeable.** Chat, CoWork, and Code have
-   different tools and different powers. A claim that requires repo inspection
-   cannot be made from a surface that has no repo access.
-2. **Evidence comes before conclusions.** If inspection did not happen, the
-   answer is `Not inspected yet` — not a confident guess.
-3. **Secrets are requested last, not first.** Local files get checked before
-   the user is ever asked to paste a value.
+Every specialist skill in the library that opens with **"Load Order: Read
+`shared-kernel/SKILL.md` first"** is invoking this file. The specialist
+adds domain depth; it never overrides the kernel.
 
 ---
 
 ## The Problem It Solves
 
-Without a kernel, AI sessions drift:
+Without a kernel, every specialist skill has to re-teach the basics — and
+drift creeps in between them:
 
-- Claude implies it inspected files it never opened
-- Claude asks for PATs and app secrets it doesn't need
-- Repo alignment work silently escalates into runtime setup
-- Local machine state gets confused with GitHub state
-- Conclusions get delivered with confidence that evidence doesn't support
+- Claims about files nobody actually read
+- APIs recommended for framework versions nobody verified
+- TODOs and stubs shipped as finished work
+- "While we're here" refactors that were never authorized
+- "Done" declared with nothing compiled, run, or tested
+- Security workarounds that disable the control instead of fixing the
+  problem
 
-Shared Kernel stops all of it at the root, so every skill built on top of it
-starts from the same discipline.
-
----
-
-## The Two Working Modes
-
-| Mode | Use For | Hard Rule |
-|---|---|---|
-| **Repo Alignment Mode** | Opening a repo, checking branches, comparing local to remote, resuming work | Inspect git state and local files first. Never ask for secrets. |
-| **Runtime Integration Mode** | Emulator testing, OAuth flows, broker testing, external service setup | Only enters on explicit user request. Check local env/secret paths before asking for anything. |
-
-One mode at a time. The active mode is always named.
+The kernel closes all of it once, in one place, for every skill built on
+top.
 
 ---
 
-## How To Use It
+## Who Inherits It
 
-Shared Kernel is a dependency, not a standalone workflow. Install it alongside
-the skills that inherit it:
+Two federations run on this kernel:
 
-- `doctrine-guardian-v2` — the cross-surface doctrine layer
-- `chat-strategy-guide-v2` — Chat surface
-- `code-verification-guard-v2` — Code surface
-- `cowork-repo-bootstrap-v2` — CoWork session start
-- `cowork-runtime-gatekeeper-v2` — CoWork runtime gating
-
-Once installed, it activates automatically whenever surface, evidence, or
-scope discipline is in play. No trigger phrase required.
+- **The surface-doctrine suite** (`doctrine-guardian-v2`,
+  `chat-strategy-guide-v2`, `code-verification-guard-v2`,
+  `cowork-repo-bootstrap-v2`, `cowork-runtime-gatekeeper-v2`) — each of
+  these also embeds its surface-specific kernel rules inline
+- **The dev federation** (`angular-architect`, `debugging-wizard`,
+  `devops-sre`, `discord-platform-expert`, `embedded-systems`,
+  `feature-forge`, `security-reviewer`, and future specialists) — each
+  opens with the Load Order line pointing here
 
 ---
 
-## What You'll See
+## The Core Posture
 
-- Claude names which mode is active before non-trivial work
-- `Not inspected yet` appears instead of invented certainty
-- Evidence blocks list what was inspected, what was done, what was observed
-- Secret requests only happen after local paths were checked — and never echo
-  values back into chat
+| Pillar | The Rule |
+|---|---|
+| Evidence | Read the file, verify the version, quote the line — or say what's uncertain |
+| Zero-defect | No TODOs, no stubs, no fragments; a patch that fails twice becomes a full rewrite |
+| Scope | One primary recommendation; no unauthorized side-quests or surprise dependencies |
+| Security | No secrets in output, no deploys without authorization, no disabled controls |
+| Verification | Compiles/runs clean, tested against concrete input, rollback stated |
+| Output | No preamble, no postamble — the work, in the project's own style |
 
 ---
 
@@ -82,8 +73,10 @@ scope discipline is in play. No trigger phrase required.
 
 1. Copy the `SKILL.md` file from this folder
 2. Place it in your Claude skills directory
-3. Install the doctrine skills that inherit it (see list above)
-4. It activates automatically — no invocation phrase needed
+3. Install any specialist skills on top — their Load Order lines resolve
+   to this kernel
+4. It activates automatically whenever a specialist loads or
+   production-grade discipline is required
 
 ---
 

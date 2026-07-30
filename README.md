@@ -193,7 +193,7 @@ verified, inside their authority, and aligned with the human they serve.
 | [`retry-recovery-budget`](agentic/retry-recovery-budget/) | Turns retries into a classified, budgeted resource — no loops, no boundary probing, no silent failures |
 | [`reversibility-gate`](agentic/reversibility-gate/) | Classifies every action as reversible or irreversible; irreversible requires explicit confirmation |
 | [`security-threat-taxonomy`](agentic/security-threat-taxonomy/) | Identifies and classifies security threats specific to agentic AI systems |
-| [`shared-kernel`](agentic/shared-kernel/) | Foundation layer every doctrine skill inherits: surface awareness, evidence discipline, secret rules |
+| [`shared-kernel`](agentic/shared-kernel/) | The federation's common spine: evidence-first, zero-defect output, scope discipline, verification gates |
 | [`social-intelligence-delegate`](agentic/social-intelligence-delegate/) | Determines when agents proceed, pause, or hand off context-sensitive human interactions |
 | [`span-of-control`](agentic/span-of-control/) | Defines and enforces the agent's reliable operational limit before parallel work |
 | [`trust-calibration`](agentic/trust-calibration/) | Honest self-assessment of confidence and capability before accepting a task |
