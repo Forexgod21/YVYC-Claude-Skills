@@ -131,7 +131,7 @@ YVYC-Claude-Skills/
 
 | Category | Skills |
 |---|---|
-| Agentic | 38 |
+| Agentic | 39 |
 | Design | 7 |
 | Dev | 7 |
 | Education | 0 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Security | 2 |
 | Trading | 0 |
 | Writing | 6 |
-| **Total** | **72** |
+| **Total** | **73** |
 
 > This table is updated with every new skill added.
 
@@ -191,6 +191,7 @@ verified, inside their authority, and aligned with the human they serve.
 | [`multi-objective-tradeoff`](agentic/multi-objective-tradeoff/) | Surfaces competing objectives explicitly instead of making silent judgment calls |
 | [`operator-realignment`](agentic/operator-realignment/) | Loads an operator profile and calibrates agent behavior to its baseline immediately |
 | [`permission-attenuation`](agentic/permission-attenuation/) | Grants sub-tasks only the minimum permissions required — no inherited privileges |
+| [`personalization-safety-audit`](agentic/personalization-safety-audit/) | Keeps user memory from gating safety: tailoring vs gating, symmetry test, identity is not a credential |
 | [`principal-agent-alignment`](agentic/principal-agent-alignment/) | Continuously checks task interpretation against original human intent |
 | [`reputation-signal`](agentic/reputation-signal/) | Tracks the reliability history of agents and human-AI team members over time |
 | [`retry-recovery-budget`](agentic/retry-recovery-budget/) | Turns retries into a classified, budgeted resource — no loops, no boundary probing, no silent failures |
