@@ -131,7 +131,7 @@ YVYC-Claude-Skills/
 
 | Category | Skills |
 |---|---|
-| Agentic | 43 |
+| Agentic | 44 |
 | Design | 7 |
 | Dev | 7 |
 | Education | 0 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Security | 2 |
 | Trading | 0 |
 | Writing | 6 |
-| **Total** | **79** |
+| **Total** | **80** |
 
 > This table is updated with every new skill added.
 
@@ -172,6 +172,7 @@ verified, inside their authority, and aligned with the human they serve.
 | [`agent-contract-specification`](agentic/agent-contract-specification/) | Four-clause contracts before agent execution: postconditions, invariants, resource bounds, acceptance test |
 | [`agent-error-attribution`](agentic/agent-error-attribution/) | Five-stage failure taxonomy with backward attribution walk — fixes land at the origin, not the symptom |
 | [`agent-observability-doctrine`](agentic/agent-observability-doctrine/) | Makes agent work inspectable: action records, live cost meters, decision audits, replay-ready logs |
+| [`agent-stack-org-design`](agentic/agent-stack-org-design/) | The agent stack as a deliberate org: function map, lane charters, authority levels, engineered handoffs |
 | [`authority-gradient-check`](agentic/authority-gradient-check/) | Verifies the authority level behind every instruction before acting on it |
 | [`chat-strategy-guide-v2`](agentic/chat-strategy-guide-v2/) | Makes Chat elite at reasoning, planning, and teaching without pretending repo access |
 | [`code-verification-guard-v2`](agentic/code-verification-guard-v2/) | Code-surface implementation discipline: read before writing, verify after changing, never fake a result |
