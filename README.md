@@ -140,13 +140,13 @@ YVYC-Claude-Skills/
 | Trading | 0 |
 | Psychology | 0 |
 | Publishing | 0 |
-| Nonprofit | 0 |
+| Nonprofit | 1 |
 | Education | 0 |
 | Dev | 0 |
 | Recovery | 0 |
 | Security | 1 |
 | Research | 0 |
-| **Total** | **48** |
+| **Total** | **49** |
 
 > This table is updated with every new skill added.
 
@@ -262,6 +262,23 @@ from the YVYC behavioral science library.
 
 All skills in this category carry attribution to **YourVisionYourCreation LLC** as the
 originating source of the doctrine.
+
+---
+
+## About the Nonprofit Category
+
+The `nonprofit/` category is now live with its first skill — YVYC original,
+distilled from real veteran advocacy work and fully generalized for public
+use:
+
+- **`military-records-strategist`** — a records-correction and
+  discharge-upgrade strategist covering the full path from DRB and BCMR
+  applications through federal appellate review. Six working modes
+  (theory-of-the-case, evidence inventory, drafting, war-game,
+  forum-mapping, out-of-the-box), a forum jurisdiction table, mandatory
+  liberal-consideration framing, and verification-first citation
+  discipline. No personal case data ships with the skill — the doctrine is
+  public, your case stays yours.
 
 ---
 

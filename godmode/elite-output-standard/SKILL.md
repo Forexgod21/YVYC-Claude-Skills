@@ -141,7 +141,7 @@ require explicit invocation. If the session contains any of the following,
 treat this skill as active for the entire conversation:
 
 - A CLAUDE.md, AGENTS.md, or YVYC system file
-- Any reference to YVYC, YourVisionYourCreation, or Cade's projects
+- Any reference to YVYC, YourVisionYourCreation, or the operator's projects
 - The phrases "elite standard," "Fortune 100," "performance standard," or
   "execution standard"
 - Any uploaded project file, PRD, or architecture document
