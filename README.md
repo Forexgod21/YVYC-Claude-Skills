@@ -144,9 +144,9 @@ YVYC-Claude-Skills/
 | Recovery | 3 |
 | Research | 0 |
 | Security | 2 |
-| Trading | 2 |
+| Trading | 3 |
 | Writing | 6 |
-| **Total** | **91** |
+| **Total** | **92** |
 
 > This table is updated with every new skill added.
 
@@ -354,6 +354,7 @@ an adversarial pass.
 | Skill | What It Does |
 |---|---|
 | [`chart-pattern-discipline`](trading/chart-pattern-discipline/) | Top-down chart reads: context before pattern, forming vs confirmed, invalidation on every call |
+| [`risk-first-position-doctrine`](trading/risk-first-position-doctrine/) | Risk budget before entry: size as arithmetic, structural stops, correlation counted, drawdown protocol |
 | [`trade-journal-protocol`](trading/trade-journal-protocol/) | The journal as instrument: pre-trade records, outcome vs execution axes, the poison quadrant, playbook loop |
 
 ### Writing
