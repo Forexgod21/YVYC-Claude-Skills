@@ -131,7 +131,7 @@ YVYC-Claude-Skills/
 
 | Category | Skills |
 |---|---|
-| Agentic | 40 |
+| Agentic | 41 |
 | Design | 7 |
 | Dev | 7 |
 | Education | 0 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Security | 2 |
 | Trading | 0 |
 | Writing | 6 |
-| **Total** | **74** |
+| **Total** | **75** |
 
 > This table is updated with every new skill added.
 
@@ -186,6 +186,7 @@ verified, inside their authority, and aligned with the human they serve.
 | [`doctrine-guardian-v2`](agentic/doctrine-guardian-v2/) | Cross-surface doctrine layer: scope discipline, approval boundaries, evidence-first reasoning |
 | [`emergent-value-audit`](agentic/emergent-value-audit/) | Surfaces implicit AI preferences and value weightings before deployment |
 | [`exchange-rate-monitor`](agentic/exchange-rate-monitor/) | Detects the hidden valuation hierarchies an AI applies when trading off objectives |
+| [`governance-decay-guard`](agentic/governance-decay-guard/) | Stops agents from summarizing away their own rules: pin layer, canary probes, canonical re-assertion |
 | [`human-in-loop-escalation`](agentic/human-in-loop-escalation/) | Decision tree for when execution must stop and require human input |
 | [`memory-poisoning-defense`](agentic/memory-poisoning-defense/) | Defends persistent memory: provenance-gated writes, quarantine, retrieval hygiene, versioned rollback |
 | [`monitoring-protocol`](agentic/monitoring-protocol/) | Four-level task-state monitoring, from operational status to full state transparency |
