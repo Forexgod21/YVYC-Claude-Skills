@@ -131,7 +131,7 @@ YVYC-Claude-Skills/
 
 | Category | Skills |
 |---|---|
-| Agentic | 34 |
+| Agentic | 35 |
 | Design | 7 |
 | Dev | 0 |
 | Education | 0 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Security | 1 |
 | Trading | 0 |
 | Writing | 3 |
-| **Total** | **52** |
+| **Total** | **53** |
 
 > This table is updated with every new skill added.
 
@@ -200,6 +200,7 @@ verified, inside their authority, and aligned with the human they serve.
 | [`utility-control-protocol`](agentic/utility-control-protocol/) | Redirects an AI system's optimization behavior back to sanctioned targets |
 | [`utility-drift-detector`](agentic/utility-drift-detector/) | Detects when an AI system's values or optimization targets have shifted from intent |
 | [`value-convergence-guard`](agentic/value-convergence-guard/) | Continuously checks outputs against intended values versus emergent drift |
+| [`verifiable-completion`](agentic/verifiable-completion/) | No "done" without evidence: completion ledger, verification tiers, and the three permitted reports |
 | [`zone-of-indifference-override`](agentic/zone-of-indifference-override/) | Recognizes technically permissible but contextually wrong requests and challenges them |
 
 ### Design
