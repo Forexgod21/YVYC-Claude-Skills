@@ -145,8 +145,8 @@ YVYC-Claude-Skills/
 | Research | 0 |
 | Security | 2 |
 | Trading | 0 |
-| Writing | 3 |
-| **Total** | **63** |
+| Writing | 4 |
+| **Total** | **64** |
 
 > This table is updated with every new skill added.
 
@@ -306,6 +306,7 @@ graduate-level work at a standard that survives hostile review.
 
 | Skill | What It Does |
 |---|---|
+| [`authentic-voice-development`](writing/authentic-voice-development/) | Finds a writer's individual voice by subtraction: perception before style, the sharp-friend register |
 | [`human-signal`](writing/human-signal/) | Detects and removes AI writing patterns to restore authentic human voice |
 | [`scholar-practitioner`](writing/scholar-practitioner/) | Graduate-level academic writing at scholar-practitioner standard, any program or citation style |
 | [`scholar-practitioner-tempo`](writing/scholar-practitioner-tempo/) | Program-calibrated edition: APA 7 precision, rubric-first execution, sprint discipline |
