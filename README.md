@@ -139,14 +139,14 @@ YVYC-Claude-Skills/
 | Marketing | 0 |
 | Nonprofit | 1 |
 | Productivity | 1 |
-| Psychology | 0 |
+| Psychology | 1 |
 | Publishing | 0 |
 | Recovery | 0 |
 | Research | 0 |
 | Security | 1 |
 | Trading | 0 |
 | Writing | 3 |
-| **Total** | **53** |
+| **Total** | **54** |
 
 > This table is updated with every new skill added.
 
@@ -255,6 +255,18 @@ systems — spreadsheets, trackers, workflows — fast, durable, and maintainabl
 | Skill | What It Does |
 |---|---|
 | [`google-sheets`](productivity/google-sheets/) | 30-section elite reference for Google Sheets automation and Apps Script |
+
+### Psychology
+
+**So What:** Software that directs, scores, or schedules human work is a
+manager — one whose reasoning nobody can question in the hallway. These
+skills apply I/O psychology and organizational behavior to the systems
+people actually live under, so the human cost gets reviewed with the same
+rigor as the code.
+
+| Skill | What It Does |
+|---|---|
+| [`algorithmic-management-audit`](psychology/algorithmic-management-audit/) | Six-lane audit of any system that manages people: control functions, contestability, gaming paths, override integrity |
 
 ### Security
 
