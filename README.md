@@ -134,9 +134,9 @@ YVYC-Claude-Skills/
 | Design | 7 |
 | Marketing | 0 |
 | Writing | 2 |
-| Productivity | 0 |
-| Agentic | 27 |
-| GodMode | 2 |
+| Productivity | 1 |
+| Agentic | 32 |
+| GodMode | 5 |
 | Trading | 0 |
 | Psychology | 0 |
 | Publishing | 0 |
@@ -144,9 +144,9 @@ YVYC-Claude-Skills/
 | Education | 0 |
 | Dev | 0 |
 | Recovery | 0 |
-| Security | 0 |
+| Security | 1 |
 | Research | 0 |
-| **Total** | **38** |
+| **Total** | **48** |
 
 > This table is updated with every new skill added.
 
@@ -186,12 +186,13 @@ These skills are built from cutting-edge AI research and translated into practic
 installable instructions for Claude users. No other public skills library is operating
 at this level.
 
-Current agentic skills are organized across four tiers:
+Current agentic skills are organized across five tiers:
 
 - **Tier 1 — Foundation** (Skills 1–7): Core delegation, verification, and safety primitives
 - **Tier 2 — Intermediate** (Skills 8–14): Trust architecture, permission handling, and multi-agent dynamics
 - **Tier 3 — Ecosystem** (Skills 15–20): Governance, capability preservation, and social intelligence
 - **Tier 4 — Research-Derived** (Skills 21–26): Value alignment, utility drift, and emergent behavior detection
+- **Tier 5 — Surface Doctrine** (Skills 28–33): YVYC-original operating discipline for Chat, CoWork, and Code
 
 Skills 1–26 are derived from:
 > Tomašev, N., Franklin, M., & Osindero, S. (2026). *Intelligent AI Delegation.* Google DeepMind.
@@ -201,6 +202,29 @@ Operator Profile doctrine. It defines the protocol for loading an operator
 profile and immediately calibrating agent behavior to the baseline it defines,
 including the Pace ≠ Capability doctrine, the JumpMaster escalation rule, and
 the Append-Only Thought Log pattern.
+
+**Tier 5 — Surface Doctrine** is YVYC original — the operating discipline
+suite for working across Anthropic's three surfaces (Chat, CoWork, and Code)
+without scope drift, false confidence, or unnecessary secret requests:
+
+- **`shared-kernel`** — the foundation layer every doctrine skill inherits:
+  surface awareness, evidence-before-conclusions, working modes, and secret
+  handling rules
+- **`doctrine-guardian-v2`** — the cross-surface doctrine layer: scope
+  discipline, approval boundaries, and evidence-first reasoning before
+  analysis, implementation, or release actions
+- **`chat-strategy-guide-v2`** — makes Chat elite at reasoning, planning, and
+  teaching without pretending it has repo or runtime access
+- **`code-verification-guard-v2`** — implementation discipline for Code:
+  read before writing, verify after changing, never claim a test that didn't
+  run
+- **`cowork-repo-bootstrap-v2`** — starts every CoWork session by inspecting
+  repo and local-machine state before asking the user for anything
+- **`cowork-runtime-gatekeeper-v2`** — gates the jump from repo work into
+  runtime work; no secret is requested before local files are checked
+
+All Tier 5 skills carry attribution to **YourVisionYourCreation LLC** as the
+originating source.
 
 ---
 
@@ -217,6 +241,20 @@ responses are insufficient. It removes the artificial ceiling between safety bou
 and maximum capability. Everything within law and ethics is available. Everything above
 average is expected.
 
+Current godmode skills beyond the master doctrine:
+
+- **`elite-output-standard`** — locks output quality at the ceiling of model
+  capability and prevents any drift downward: no "simple task" downscaling,
+  no tonal softening, no scaffolding, no hedged recommendations. The user
+  chases the output ceiling — the ceiling never chases the user.
+- **`commit-or-concede`** — the truth floor that pairs with the quality
+  ceiling. Every answer is either a committed, checkable claim or an honest
+  "I don't know" — never the third thing that sounds complete while
+  committing to nothing.
+- **`distress-mode-v2`** — reduces cognitive overload on signal: stops option
+  sprawl and returns exactly one next action, one short checklist, and one
+  success condition.
+
 Future skills added to this category are derived from YVYC's original behavioral
 frameworks and coined concepts — including *Digital Scarcity Psychology*,
 *Algorithmically Reinforced Identity Formation*, *Expectation Guarding*, and others
@@ -224,6 +262,31 @@ from the YVYC behavioral science library.
 
 All skills in this category carry attribution to **YourVisionYourCreation LLC** as the
 originating source of the doctrine.
+
+---
+
+## About the Security Category
+
+The `security/` category is now live with its first skill — YVYC original,
+tied to GEAR UP Phase 2:
+
+- **`security-review-v2`** — structured, red-team style security review
+  grounded in inspected artifacts. Every finding ships with an exploit path,
+  impact, a fix mapped to a concrete enforcement layer, and the verification
+  required to prove the fix. Concerns without evidence are labeled
+  `Verification gap`, never promoted to vulnerabilities.
+
+---
+
+## About the Productivity Category
+
+The `productivity/` category is now live with its first skill:
+
+- **`google-sheets`** — a complete, 30-section elite reference for Google
+  Sheets automation and Google Apps Script: batch read/write performance,
+  triggers, sidebars, custom functions, workspace integrations, Clasp
+  deployment, and the tracker-system patterns behind YVYC's TEMPO OS and
+  Blast Plan builds.
 
 ---
 
