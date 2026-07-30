@@ -133,7 +133,7 @@ YVYC-Claude-Skills/
 |---|---|
 | Agentic | 35 |
 | Design | 7 |
-| Dev | 6 |
+| Dev | 7 |
 | Education | 0 |
 | GodMode | 5 |
 | Marketing | 0 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Security | 2 |
 | Trading | 0 |
 | Writing | 3 |
-| **Total** | **62** |
+| **Total** | **63** |
 
 > This table is updated with every new skill added.
 
@@ -235,6 +235,7 @@ and the failure-mode tables that turn debugging from guessing into lookup.
 | [`discord-platform-expert`](dev/discord-platform-expert/) | Discord bots that survive the real platform: intents, 3s ack windows, rate buckets, sharding, OAuth2 |
 | [`embedded-systems`](dev/embedded-systems/) | Firmware and RTOS discipline: ISR rules, DMA cache maintenance, bringup order, HardFault diagnosis |
 | [`feature-forge`](dev/feature-forge/) | Greenfield design sequence: job-to-be-done, constraints, data model, API contract, phased delivery |
+| [`swift-ios-expert`](dev/swift-ios-expert/) | Modern Apple platform development: Swift 6 concurrency, @Observable SwiftUI, SwiftData actor rules |
 
 ### GodMode
 
