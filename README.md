@@ -131,7 +131,7 @@ YVYC-Claude-Skills/
 
 | Category | Skills |
 |---|---|
-| Agentic | 41 |
+| Agentic | 42 |
 | Design | 7 |
 | Dev | 7 |
 | Education | 0 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Security | 2 |
 | Trading | 0 |
 | Writing | 6 |
-| **Total** | **75** |
+| **Total** | **76** |
 
 > This table is updated with every new skill added.
 
@@ -198,6 +198,7 @@ verified, inside their authority, and aligned with the human they serve.
 | [`reputation-signal`](agentic/reputation-signal/) | Tracks the reliability history of agents and human-AI team members over time |
 | [`retry-recovery-budget`](agentic/retry-recovery-budget/) | Turns retries into a classified, budgeted resource — no loops, no boundary probing, no silent failures |
 | [`reversibility-gate`](agentic/reversibility-gate/) | Classifies every action as reversible or irreversible; irreversible requires explicit confirmation |
+| [`runtime-delegation-safety`](agentic/runtime-delegation-safety/) | Five-check gate on every live handoff: capability, authority, state, boundary, recovery |
 | [`security-threat-taxonomy`](agentic/security-threat-taxonomy/) | Identifies and classifies security threats specific to agentic AI systems |
 | [`shared-kernel`](agentic/shared-kernel/) | The federation's common spine: evidence-first, zero-defect output, scope discipline, verification gates |
 | [`social-intelligence-delegate`](agentic/social-intelligence-delegate/) | Determines when agents proceed, pause, or hand off context-sensitive human interactions |
