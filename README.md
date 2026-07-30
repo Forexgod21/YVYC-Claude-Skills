@@ -133,7 +133,7 @@ YVYC-Claude-Skills/
 |---|---|
 | Agentic | 35 |
 | Design | 7 |
-| Dev | 1 |
+| Dev | 2 |
 | Education | 0 |
 | GodMode | 5 |
 | Marketing | 0 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Security | 1 |
 | Trading | 0 |
 | Writing | 3 |
-| **Total** | **56** |
+| **Total** | **57** |
 
 > This table is updated with every new skill added.
 
@@ -230,6 +230,7 @@ and the failure-mode tables that turn debugging from guessing into lookup.
 | Skill | What It Does |
 |---|---|
 | [`angular-architect`](dev/angular-architect/) | Modern Angular architecture: standalone components, signals, OnPush, typed forms, SSR hydration, Nx |
+| [`debugging-wizard`](dev/debugging-wizard/) | Seven-phase root-cause protocol: reproduce, observe, hypothesize, bisect, instrument, fix, verify |
 
 ### GodMode
 
