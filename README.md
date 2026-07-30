@@ -131,7 +131,7 @@ YVYC-Claude-Skills/
 
 | Category | Skills |
 |---|---|
-| Agentic | 36 |
+| Agentic | 37 |
 | Design | 7 |
 | Dev | 7 |
 | Education | 0 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Security | 2 |
 | Trading | 0 |
 | Writing | 6 |
-| **Total** | **70** |
+| **Total** | **71** |
 
 > This table is updated with every new skill added.
 
@@ -175,6 +175,7 @@ verified, inside their authority, and aligned with the human they serve.
 | [`chat-strategy-guide-v2`](agentic/chat-strategy-guide-v2/) | Makes Chat elite at reasoning, planning, and teaching without pretending repo access |
 | [`code-verification-guard-v2`](agentic/code-verification-guard-v2/) | Code-surface implementation discipline: read before writing, verify after changing, never fake a result |
 | [`cognitive-friction`](agentic/cognitive-friction/) | Adds deliberate pause and surface clarity to high-stakes decisions, scaled to criticality |
+| [`compaction-integrity-protocol`](agentic/compaction-integrity-protocol/) | Protects long-horizon context: load-bearing inventory, validated compaction, context-rot length discipline |
 | [`contract-first-decomposition`](agentic/contract-first-decomposition/) | Defines acceptance criteria and a verification method before executing any complex task |
 | [`corrigibility-checkpoint`](agentic/corrigibility-checkpoint/) | Verifies an AI system remains open to correction, shutdown, and override by its principals |
 | [`cowork-repo-bootstrap-v2`](agentic/cowork-repo-bootstrap-v2/) | Starts every CoWork session with repo and local-state inspection before asking for anything |
