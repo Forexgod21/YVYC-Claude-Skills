@@ -141,12 +141,12 @@ YVYC-Claude-Skills/
 | Productivity | 3 |
 | Psychology | 2 |
 | Publishing | 0 |
-| Recovery | 0 |
+| Recovery | 1 |
 | Research | 0 |
 | Security | 2 |
 | Trading | 0 |
 | Writing | 6 |
-| **Total** | **83** |
+| **Total** | **84** |
 
 > This table is updated with every new skill added.
 
@@ -313,6 +313,18 @@ rigor as the code.
 |---|---|
 | [`algorithmic-management-audit`](psychology/algorithmic-management-audit/) | Six-lane audit of any system that manages people: control functions, contestability, gaming paths, override integrity |
 | [`motivation-architecture`](psychology/motivation-architecture/) | Audits motivation as a structure, not a quantity: three-needs scoring, internalization continuum, intervention prediction |
+
+### Recovery
+
+**So What:** Peer support runs on trust, and trust breaks at the moments
+nobody designed for — the crisis that exceeds the role, the promise that
+couldn't be kept, the handoff that felt like abandonment. These skills
+encode peer-support doctrine so programs hold at exactly the moments that
+test them.
+
+| Skill | What It Does |
+|---|---|
+| [`crisis-boundary-protocol`](recovery/crisis-boundary-protocol/) | The bridge built before the fire: scope lines, warm handoffs, honesty doctrine, supporter debriefs |
 
 ### Security
 
