@@ -131,7 +131,7 @@ YVYC-Claude-Skills/
 
 | Category | Skills |
 |---|---|
-| Agentic | 33 |
+| Agentic | 34 |
 | Design | 7 |
 | Dev | 0 |
 | Education | 0 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Security | 1 |
 | Trading | 0 |
 | Writing | 3 |
-| **Total** | **51** |
+| **Total** | **52** |
 
 > This table is updated with every new skill added.
 
@@ -190,6 +190,7 @@ verified, inside their authority, and aligned with the human they serve.
 | [`permission-attenuation`](agentic/permission-attenuation/) | Grants sub-tasks only the minimum permissions required — no inherited privileges |
 | [`principal-agent-alignment`](agentic/principal-agent-alignment/) | Continuously checks task interpretation against original human intent |
 | [`reputation-signal`](agentic/reputation-signal/) | Tracks the reliability history of agents and human-AI team members over time |
+| [`retry-recovery-budget`](agentic/retry-recovery-budget/) | Turns retries into a classified, budgeted resource — no loops, no boundary probing, no silent failures |
 | [`reversibility-gate`](agentic/reversibility-gate/) | Classifies every action as reversible or irreversible; irreversible requires explicit confirmation |
 | [`security-threat-taxonomy`](agentic/security-threat-taxonomy/) | Identifies and classifies security threats specific to agentic AI systems |
 | [`shared-kernel`](agentic/shared-kernel/) | Foundation layer every doctrine skill inherits: surface awareness, evidence discipline, secret rules |
