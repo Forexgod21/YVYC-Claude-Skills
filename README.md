@@ -84,21 +84,21 @@ YVYC-Claude-Skills/
 │           ├── SKILL.md
 │           └── HOW-TO-USE.md
 │
-├── design/
-├── marketing/
-├── writing/
-├── productivity/
 ├── agentic/
+├── design/
+├── dev/
+├── education/
 ├── godmode/
-├── trading/
+├── marketing/
+├── nonprofit/
+├── productivity/
 ├── psychology/
 ├── publishing/
-├── nonprofit/
-├── education/
-├── dev/
 ├── recovery/
+├── research/
 ├── security/
-└── research/
+├── trading/
+└── writing/
 ```
 
 ---
@@ -107,21 +107,21 @@ YVYC-Claude-Skills/
 
 | Category | Focus | YVYC Ecosystem Tie-In |
 |---|---|---|
-| `design/` | Visual identity, UI, brand | Luna Universe, YVYC brand |
-| `marketing/` | Copy, campaigns, growth | YVYC store, social |
-| `writing/` | Content, storytelling, editing | Luna books, Don't Feed the Trolls |
-| `productivity/` | Workflows, planning, systems | General ecosystem |
 | `agentic/` | AI governance, delegation, multi-agent | GEAR UP MCP, YVYC doctrine |
+| `design/` | Visual identity, UI, brand | Luna Universe, YVYC brand |
+| `dev/` | App development, debugging, architecture | DoSomething, GEAR UP MCP |
+| `education/` | Curriculum, learning design, translation | Learnasaurus Rex |
 | `godmode/` | AI operating state doctrine, behavioral frameworks | YVYC original concepts |
-| `trading/` | Elliott Wave, forex, Pine Script | C.A.D.E. Method, forex work |
+| `marketing/` | Copy, campaigns, growth | YVYC store, social |
+| `nonprofit/` | Grant writing, advocacy, community | Veteran work, disaster relief |
+| `productivity/` | Workflows, planning, systems | General ecosystem |
 | `psychology/` | I/O psych, behavioral frameworks | Walden studies, NSBW framework |
 | `publishing/` | Children's books, manuscript, editorial | Luna Universe series |
-| `nonprofit/` | Grant writing, advocacy, community | Veteran work, disaster relief |
-| `education/` | Curriculum, learning design, translation | Learnasaurus Rex |
-| `dev/` | App development, debugging, architecture | DoSomething, GEAR UP MCP |
 | `recovery/` | PRSS workflows, peer support | Veteran advocacy |
-| `security/` | Threat modeling, hardening, review | GEAR UP Phase 2 |
 | `research/` | Academic writing, citation, synthesis | Walden grad work |
+| `security/` | Threat modeling, hardening, review | GEAR UP Phase 2 |
+| `trading/` | Elliott Wave, forex, Pine Script | C.A.D.E. Method, forex work |
+| `writing/` | Content, storytelling, editing | Luna books, Don't Feed the Trolls |
 
 > Categories marked with 0 skills are scaffolded and actively planned. Skills are added as they are built and tested.
 
@@ -131,21 +131,21 @@ YVYC-Claude-Skills/
 
 | Category | Skills |
 |---|---|
-| Design | 7 |
-| Marketing | 0 |
-| Writing | 3 |
-| Productivity | 1 |
 | Agentic | 32 |
+| Design | 7 |
+| Dev | 0 |
+| Education | 0 |
 | GodMode | 5 |
-| Trading | 0 |
+| Marketing | 0 |
+| Nonprofit | 1 |
+| Productivity | 1 |
 | Psychology | 0 |
 | Publishing | 0 |
-| Nonprofit | 1 |
-| Education | 0 |
-| Dev | 0 |
 | Recovery | 0 |
-| Security | 1 |
 | Research | 0 |
+| Security | 1 |
+| Trading | 0 |
+| Writing | 3 |
 | **Total** | **50** |
 
 > This table is updated with every new skill added.
