@@ -137,7 +137,7 @@ YVYC-Claude-Skills/
 | Education | 0 |
 | GodMode | 5 |
 | Marketing | 3 |
-| Nonprofit | 3 |
+| Nonprofit | 4 |
 | Productivity | 3 |
 | Psychology | 2 |
 | Publishing | 0 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Security | 2 |
 | Trading | 0 |
 | Writing | 6 |
-| **Total** | **88** |
+| **Total** | **89** |
 
 > This table is updated with every new skill added.
 
@@ -290,6 +290,7 @@ run.
 | [`advocacy-campaign-doctrine`](nonprofit/advocacy-campaign-doctrine/) | Campaigns that move decisions: decision target, power map, story-data interlock, escalation ladder |
 | [`grant-narrative-architecture`](nonprofit/grant-narrative-architecture/) | Proposals built on the funder's scoring skeleton: needs statement, golden thread, compliance matrix |
 | [`military-records-strategist`](nonprofit/military-records-strategist/) | Records-correction and discharge-upgrade strategist, from review boards to federal appellate review |
+| [`program-logic-model`](nonprofit/program-logic-model/) | The program's causal chain on paper: five links, mechanism-tested arrows, measurement hooks at design time |
 
 ### Productivity
 
