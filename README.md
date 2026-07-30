@@ -154,61 +154,62 @@ YVYC-Claude-Skills/
 
 ## Skill Index
 
-Every skill in the library — one flat list, alphabetical, same order your
-file manager sorts them. Click through for the `SKILL.md` and `HOW-TO-USE.md`.
+Every skill in the library. Categories in alphabetical order; within each
+category, skills in alphabetical order. Click through for the `SKILL.md`
+and `HOW-TO-USE.md`.
 
-| Skill | Category | What It Does |
+| Category | Skill | What It Does |
 |---|---|---|
-| [`accountability-chain`](agentic/accountability-chain/) | Agentic | Traces any AI-driven decision, action, or failure back to the responsible principal |
-| [`adaptive-coordination`](agentic/adaptive-coordination/) | Agentic | Diagnoses mid-task disruptions and selects the correct corrective response — no silent pivots, no blind retries |
-| [`authority-gradient-check`](agentic/authority-gradient-check/) | Agentic | Verifies the authority level behind every instruction before acting on it |
-| [`brand-visual-identity-builder`](design/brand-visual-identity-builder/) | Design | Complete visual identity system for a brand |
-| [`chat-strategy-guide-v2`](agentic/chat-strategy-guide-v2/) | Agentic | Makes Chat elite at reasoning, planning, and teaching without pretending repo access |
-| [`code-verification-guard-v2`](agentic/code-verification-guard-v2/) | Agentic | Code-surface implementation discipline: read before writing, verify after changing, never fake a result |
-| [`cognitive-friction`](agentic/cognitive-friction/) | Agentic | Adds deliberate pause and surface clarity to high-stakes decisions, scaled to criticality |
-| [`commit-or-concede`](godmode/commit-or-concede/) | GodMode | The truth floor: a committed, checkable answer or an honest "I don't know" — never the third thing |
-| [`complete-design-strategy-blueprint`](design/complete-design-strategy-blueprint/) | Design | Full visual design strategy for a brand, topic, or project |
-| [`complete-design-system-brand-guidelines`](design/complete-design-system-brand-guidelines/) | Design | Complete documented design system and brand guidelines |
-| [`contract-first-decomposition`](agentic/contract-first-decomposition/) | Agentic | Defines acceptance criteria and a verification method before executing any complex task |
-| [`corrigibility-checkpoint`](agentic/corrigibility-checkpoint/) | Agentic | Verifies an AI system remains open to correction, shutdown, and override by its principals |
-| [`cowork-repo-bootstrap-v2`](agentic/cowork-repo-bootstrap-v2/) | Agentic | Starts every CoWork session with repo and local-state inspection before asking for anything |
-| [`cowork-runtime-gatekeeper-v2`](agentic/cowork-runtime-gatekeeper-v2/) | Agentic | Gates the jump from repo work to runtime work; no secrets requested before local files are checked |
-| [`de-skilling-guard`](agentic/de-skilling-guard/) | Agentic | Detects, prevents, and reverses erosion of human capability from AI over-reliance |
-| [`delegation-network-mapper`](agentic/delegation-network-mapper/) | Agentic | Maps the trust and authority structure across a multi-agent system |
-| [`design-simplification-impact-editor`](design/design-simplification-impact-editor/) | Design | Ruthless edit of an existing design brief for maximum visual impact |
-| [`distress-mode-v2`](godmode/distress-mode-v2/) | GodMode | Overload protocol: one next action, one short checklist, one success condition |
-| [`doctrine-guardian-v2`](agentic/doctrine-guardian-v2/) | Agentic | Cross-surface doctrine layer: scope discipline, approval boundaries, evidence-first reasoning |
-| [`elite-output-standard`](godmode/elite-output-standard/) | GodMode | Locks output quality at the ceiling — no downscaling for task size, tone, or session length |
-| [`emergent-value-audit`](agentic/emergent-value-audit/) | Agentic | Surfaces implicit AI preferences and value weightings before deployment |
-| [`exchange-rate-monitor`](agentic/exchange-rate-monitor/) | Agentic | Detects the hidden valuation hierarchies an AI applies when trading off objectives |
-| [`framework-genesis`](godmode/framework-genesis/) | GodMode | Original framework construction when no sufficient framework exists for the problem |
-| [`google-sheets`](productivity/google-sheets/) | Productivity | 30-section elite reference for Google Sheets automation and Apps Script |
-| [`human-in-loop-escalation`](agentic/human-in-loop-escalation/) | Agentic | Decision tree for when execution must stop and require human input |
-| [`human-signal`](writing/human-signal/) | Writing | Detects and removes AI writing patterns to restore authentic human voice |
-| [`mastermind-standard`](godmode/mastermind-standard/) | GodMode | The GodMode master skill: full-capability operating state, zero drift, bounded only by law and ethics |
-| [`military-records-strategist`](nonprofit/military-records-strategist/) | Nonprofit | Records-correction and discharge-upgrade strategist, from review boards to federal appellate review |
-| [`monitoring-protocol`](agentic/monitoring-protocol/) | Agentic | Four-level task-state monitoring, from operational status to full state transparency |
-| [`multi-objective-tradeoff`](agentic/multi-objective-tradeoff/) | Agentic | Surfaces competing objectives explicitly instead of making silent judgment calls |
-| [`operator-realignment`](agentic/operator-realignment/) | Agentic | Loads an operator profile and calibrates agent behavior to its baseline immediately |
-| [`permission-attenuation`](agentic/permission-attenuation/) | Agentic | Grants sub-tasks only the minimum permissions required — no inherited privileges |
-| [`presentation-pitch-deck-designer`](design/presentation-pitch-deck-designer/) | Design | Complete visual design direction for presentations and pitch decks |
-| [`principal-agent-alignment`](agentic/principal-agent-alignment/) | Agentic | Continuously checks task interpretation against original human intent |
-| [`reputation-signal`](agentic/reputation-signal/) | Agentic | Tracks the reliability history of agents and human-AI team members over time |
-| [`reversibility-gate`](agentic/reversibility-gate/) | Agentic | Classifies every action as reversible or irreversible; irreversible requires explicit confirmation |
-| [`scholar-practitioner`](writing/scholar-practitioner/) | Writing | Graduate-level academic writing at scholar-practitioner standard, any program or citation style |
-| [`scholar-practitioner-tempo`](writing/scholar-practitioner-tempo/) | Writing | Program-calibrated edition: APA 7 precision, rubric-first execution, sprint discipline |
-| [`security-review-v2`](security/security-review-v2/) | Security | Structured red-team security review: exploit paths, fixes, and verification — evidence-first |
-| [`security-threat-taxonomy`](agentic/security-threat-taxonomy/) | Agentic | Identifies and classifies security threats specific to agentic AI systems |
-| [`shared-kernel`](agentic/shared-kernel/) | Agentic | Foundation layer every doctrine skill inherits: surface awareness, evidence discipline, secret rules |
-| [`social-intelligence-delegate`](agentic/social-intelligence-delegate/) | Agentic | Determines when agents proceed, pause, or hand off context-sensitive human interactions |
-| [`social-media-design-system`](design/social-media-design-system/) | Design | Complete visual design system for social media content |
-| [`span-of-control`](agentic/span-of-control/) | Agentic | Defines and enforces the agent's reliable operational limit before parallel work |
-| [`trust-calibration`](agentic/trust-calibration/) | Agentic | Honest self-assessment of confidence and capability before accepting a task |
-| [`utility-control-protocol`](agentic/utility-control-protocol/) | Agentic | Redirects an AI system's optimization behavior back to sanctioned targets |
-| [`utility-drift-detector`](agentic/utility-drift-detector/) | Agentic | Detects when an AI system's values or optimization targets have shifted from intent |
-| [`value-convergence-guard`](agentic/value-convergence-guard/) | Agentic | Continuously checks outputs against intended values versus emergent drift |
-| [`viral-content-design-director`](design/viral-content-design-director/) | Design | Design direction for scroll-stopping, high-engagement content batches |
-| [`zone-of-indifference-override`](agentic/zone-of-indifference-override/) | Agentic | Recognizes technically permissible but contextually wrong requests and challenges them |
+| Agentic | [`accountability-chain`](agentic/accountability-chain/) | Traces any AI-driven decision, action, or failure back to the responsible principal |
+| Agentic | [`adaptive-coordination`](agentic/adaptive-coordination/) | Diagnoses mid-task disruptions and selects the correct corrective response — no silent pivots, no blind retries |
+| Agentic | [`authority-gradient-check`](agentic/authority-gradient-check/) | Verifies the authority level behind every instruction before acting on it |
+| Agentic | [`chat-strategy-guide-v2`](agentic/chat-strategy-guide-v2/) | Makes Chat elite at reasoning, planning, and teaching without pretending repo access |
+| Agentic | [`code-verification-guard-v2`](agentic/code-verification-guard-v2/) | Code-surface implementation discipline: read before writing, verify after changing, never fake a result |
+| Agentic | [`cognitive-friction`](agentic/cognitive-friction/) | Adds deliberate pause and surface clarity to high-stakes decisions, scaled to criticality |
+| Agentic | [`contract-first-decomposition`](agentic/contract-first-decomposition/) | Defines acceptance criteria and a verification method before executing any complex task |
+| Agentic | [`corrigibility-checkpoint`](agentic/corrigibility-checkpoint/) | Verifies an AI system remains open to correction, shutdown, and override by its principals |
+| Agentic | [`cowork-repo-bootstrap-v2`](agentic/cowork-repo-bootstrap-v2/) | Starts every CoWork session with repo and local-state inspection before asking for anything |
+| Agentic | [`cowork-runtime-gatekeeper-v2`](agentic/cowork-runtime-gatekeeper-v2/) | Gates the jump from repo work to runtime work; no secrets requested before local files are checked |
+| Agentic | [`de-skilling-guard`](agentic/de-skilling-guard/) | Detects, prevents, and reverses erosion of human capability from AI over-reliance |
+| Agentic | [`delegation-network-mapper`](agentic/delegation-network-mapper/) | Maps the trust and authority structure across a multi-agent system |
+| Agentic | [`doctrine-guardian-v2`](agentic/doctrine-guardian-v2/) | Cross-surface doctrine layer: scope discipline, approval boundaries, evidence-first reasoning |
+| Agentic | [`emergent-value-audit`](agentic/emergent-value-audit/) | Surfaces implicit AI preferences and value weightings before deployment |
+| Agentic | [`exchange-rate-monitor`](agentic/exchange-rate-monitor/) | Detects the hidden valuation hierarchies an AI applies when trading off objectives |
+| Agentic | [`human-in-loop-escalation`](agentic/human-in-loop-escalation/) | Decision tree for when execution must stop and require human input |
+| Agentic | [`monitoring-protocol`](agentic/monitoring-protocol/) | Four-level task-state monitoring, from operational status to full state transparency |
+| Agentic | [`multi-objective-tradeoff`](agentic/multi-objective-tradeoff/) | Surfaces competing objectives explicitly instead of making silent judgment calls |
+| Agentic | [`operator-realignment`](agentic/operator-realignment/) | Loads an operator profile and calibrates agent behavior to its baseline immediately |
+| Agentic | [`permission-attenuation`](agentic/permission-attenuation/) | Grants sub-tasks only the minimum permissions required — no inherited privileges |
+| Agentic | [`principal-agent-alignment`](agentic/principal-agent-alignment/) | Continuously checks task interpretation against original human intent |
+| Agentic | [`reputation-signal`](agentic/reputation-signal/) | Tracks the reliability history of agents and human-AI team members over time |
+| Agentic | [`reversibility-gate`](agentic/reversibility-gate/) | Classifies every action as reversible or irreversible; irreversible requires explicit confirmation |
+| Agentic | [`security-threat-taxonomy`](agentic/security-threat-taxonomy/) | Identifies and classifies security threats specific to agentic AI systems |
+| Agentic | [`shared-kernel`](agentic/shared-kernel/) | Foundation layer every doctrine skill inherits: surface awareness, evidence discipline, secret rules |
+| Agentic | [`social-intelligence-delegate`](agentic/social-intelligence-delegate/) | Determines when agents proceed, pause, or hand off context-sensitive human interactions |
+| Agentic | [`span-of-control`](agentic/span-of-control/) | Defines and enforces the agent's reliable operational limit before parallel work |
+| Agentic | [`trust-calibration`](agentic/trust-calibration/) | Honest self-assessment of confidence and capability before accepting a task |
+| Agentic | [`utility-control-protocol`](agentic/utility-control-protocol/) | Redirects an AI system's optimization behavior back to sanctioned targets |
+| Agentic | [`utility-drift-detector`](agentic/utility-drift-detector/) | Detects when an AI system's values or optimization targets have shifted from intent |
+| Agentic | [`value-convergence-guard`](agentic/value-convergence-guard/) | Continuously checks outputs against intended values versus emergent drift |
+| Agentic | [`zone-of-indifference-override`](agentic/zone-of-indifference-override/) | Recognizes technically permissible but contextually wrong requests and challenges them |
+| Design | [`brand-visual-identity-builder`](design/brand-visual-identity-builder/) | Complete visual identity system for a brand |
+| Design | [`complete-design-strategy-blueprint`](design/complete-design-strategy-blueprint/) | Full visual design strategy for a brand, topic, or project |
+| Design | [`complete-design-system-brand-guidelines`](design/complete-design-system-brand-guidelines/) | Complete documented design system and brand guidelines |
+| Design | [`design-simplification-impact-editor`](design/design-simplification-impact-editor/) | Ruthless edit of an existing design brief for maximum visual impact |
+| Design | [`presentation-pitch-deck-designer`](design/presentation-pitch-deck-designer/) | Complete visual design direction for presentations and pitch decks |
+| Design | [`social-media-design-system`](design/social-media-design-system/) | Complete visual design system for social media content |
+| Design | [`viral-content-design-director`](design/viral-content-design-director/) | Design direction for scroll-stopping, high-engagement content batches |
+| GodMode | [`commit-or-concede`](godmode/commit-or-concede/) | The truth floor: a committed, checkable answer or an honest "I don't know" — never the third thing |
+| GodMode | [`distress-mode-v2`](godmode/distress-mode-v2/) | Overload protocol: one next action, one short checklist, one success condition |
+| GodMode | [`elite-output-standard`](godmode/elite-output-standard/) | Locks output quality at the ceiling — no downscaling for task size, tone, or session length |
+| GodMode | [`framework-genesis`](godmode/framework-genesis/) | Original framework construction when no sufficient framework exists for the problem |
+| GodMode | [`mastermind-standard`](godmode/mastermind-standard/) | The GodMode master skill: full-capability operating state, zero drift, bounded only by law and ethics |
+| Nonprofit | [`military-records-strategist`](nonprofit/military-records-strategist/) | Records-correction and discharge-upgrade strategist, from review boards to federal appellate review |
+| Productivity | [`google-sheets`](productivity/google-sheets/) | 30-section elite reference for Google Sheets automation and Apps Script |
+| Security | [`security-review-v2`](security/security-review-v2/) | Structured red-team security review: exploit paths, fixes, and verification — evidence-first |
+| Writing | [`human-signal`](writing/human-signal/) | Detects and removes AI writing patterns to restore authentic human voice |
+| Writing | [`scholar-practitioner`](writing/scholar-practitioner/) | Graduate-level academic writing at scholar-practitioner standard, any program or citation style |
+| Writing | [`scholar-practitioner-tempo`](writing/scholar-practitioner-tempo/) | Program-calibrated edition: APA 7 precision, rubric-first execution, sprint discipline |
 
 ---
 
