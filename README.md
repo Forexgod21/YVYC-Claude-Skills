@@ -136,7 +136,7 @@ YVYC-Claude-Skills/
 | Dev | 7 |
 | Education | 0 |
 | GodMode | 5 |
-| Marketing | 1 |
+| Marketing | 2 |
 | Nonprofit | 1 |
 | Productivity | 1 |
 | Psychology | 2 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Security | 2 |
 | Trading | 0 |
 | Writing | 6 |
-| **Total** | **67** |
+| **Total** | **68** |
 
 > This table is updated with every new skill added.
 
@@ -263,6 +263,7 @@ survives scale.
 | Skill | What It Does |
 |---|---|
 | [`brand-voice-codex`](marketing/brand-voice-codex/) | Voice as transmittable doctrine: character vs tone, this-not-that fences, tone maps, drift watch |
+| [`conversion-copy-doctrine`](marketing/conversion-copy-doctrine/) | Aim-first copywriting: one reader, one kept-able promise, proof per claim, one action, honest urgency only |
 
 ### Nonprofit
 
