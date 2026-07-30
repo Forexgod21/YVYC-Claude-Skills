@@ -131,7 +131,7 @@ YVYC-Claude-Skills/
 
 | Category | Skills |
 |---|---|
-| Agentic | 44 |
+| Agentic | 45 |
 | Design | 7 |
 | Dev | 7 |
 | Education | 0 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Security | 2 |
 | Trading | 0 |
 | Writing | 6 |
-| **Total** | **80** |
+| **Total** | **81** |
 
 > This table is updated with every new skill added.
 
@@ -174,6 +174,7 @@ verified, inside their authority, and aligned with the human they serve.
 | [`agent-observability-doctrine`](agentic/agent-observability-doctrine/) | Makes agent work inspectable: action records, live cost meters, decision audits, replay-ready logs |
 | [`agent-stack-org-design`](agentic/agent-stack-org-design/) | The agent stack as a deliberate org: function map, lane charters, authority levels, engineered handoffs |
 | [`authority-gradient-check`](agentic/authority-gradient-check/) | Verifies the authority level behind every instruction before acting on it |
+| [`authority-stack-doctrine`](agentic/authority-stack-doctrine/) | Written instruction hierarchy: live user on top, memory advisory, retrieved content at rank zero |
 | [`chat-strategy-guide-v2`](agentic/chat-strategy-guide-v2/) | Makes Chat elite at reasoning, planning, and teaching without pretending repo access |
 | [`code-verification-guard-v2`](agentic/code-verification-guard-v2/) | Code-surface implementation discipline: read before writing, verify after changing, never fake a result |
 | [`cognitive-friction`](agentic/cognitive-friction/) | Adds deliberate pause and surface clarity to high-stakes decisions, scaled to criticality |
