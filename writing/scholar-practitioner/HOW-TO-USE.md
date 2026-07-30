@@ -2,7 +2,7 @@
 
 **Skill:** `scholar-practitioner`
 **Author:** YourVisionYourCreation LLC
-**Version:** 1.0
+**Version:** 1.1
 **License:** CC BY 4.0
 
 ---
@@ -35,6 +35,26 @@ Draft my response post to this peer. [paste peer's post]
 ```
 Review this paper section. Run the adversarial gate on it.
 ```
+
+---
+
+## Program Calibration *(v1.1)*
+
+The skill adapts to any graduate program. For best results, provide
+four things up front:
+
+1. **Program and institution** — calibrates depth, vocabulary, and
+   evaluator expectations
+2. **Citation style** — APA, Chicago, MLA, Turabian, AMA, or other;
+   if unspecified, the skill defaults to your field's standard and
+   confirms before output
+3. **Rubric** — paste it or describe every criterion; the rubric
+   governs all structural decisions
+4. **Readings or sources** — the skill uses only sources you provide
+   or verify; it never generates citations from memory
+
+Provide none of them and the skill still executes at the highest
+defensible standard — but it flags what's missing.
 
 ---
 
@@ -71,6 +91,9 @@ submission readiness is declared.
 **Theory-as-Mechanism Test**
 Remove the citation. Does the argument collapse? If yes — integrated.
 If no — the theory was decoration. Rebuild until it's load-bearing.
+*(v1.1)* Theory selection is tested for fit, not fame: the theory that
+actually fits the analytical problem beats the most prominent one every
+time.
 
 **Applied Consequence Test**
 Does the analysis land somewhere real? An organizational outcome, a
