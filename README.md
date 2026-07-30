@@ -131,7 +131,7 @@ YVYC-Claude-Skills/
 
 | Category | Skills |
 |---|---|
-| Agentic | 39 |
+| Agentic | 40 |
 | Design | 7 |
 | Dev | 7 |
 | Education | 0 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Security | 2 |
 | Trading | 0 |
 | Writing | 6 |
-| **Total** | **73** |
+| **Total** | **74** |
 
 > This table is updated with every new skill added.
 
@@ -170,6 +170,7 @@ verified, inside their authority, and aligned with the human they serve.
 | [`accountability-chain`](agentic/accountability-chain/) | Traces any AI-driven decision, action, or failure back to the responsible principal |
 | [`adaptive-coordination`](agentic/adaptive-coordination/) | Diagnoses mid-task disruptions and selects the correct corrective response — no silent pivots, no blind retries |
 | [`agent-contract-specification`](agentic/agent-contract-specification/) | Four-clause contracts before agent execution: postconditions, invariants, resource bounds, acceptance test |
+| [`agent-error-attribution`](agentic/agent-error-attribution/) | Five-stage failure taxonomy with backward attribution walk — fixes land at the origin, not the symptom |
 | [`agent-observability-doctrine`](agentic/agent-observability-doctrine/) | Makes agent work inspectable: action records, live cost meters, decision audits, replay-ready logs |
 | [`authority-gradient-check`](agentic/authority-gradient-check/) | Verifies the authority level behind every instruction before acting on it |
 | [`chat-strategy-guide-v2`](agentic/chat-strategy-guide-v2/) | Makes Chat elite at reasoning, planning, and teaching without pretending repo access |
