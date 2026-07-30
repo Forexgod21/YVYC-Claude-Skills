@@ -133,7 +133,7 @@ YVYC-Claude-Skills/
 |---|---|
 | Agentic | 35 |
 | Design | 7 |
-| Dev | 0 |
+| Dev | 1 |
 | Education | 0 |
 | GodMode | 5 |
 | Marketing | 0 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Security | 1 |
 | Trading | 0 |
 | Writing | 3 |
-| **Total** | **55** |
+| **Total** | **56** |
 
 > This table is updated with every new skill added.
 
@@ -219,6 +219,17 @@ brand compounds instead of resetting.
 | [`presentation-pitch-deck-designer`](design/presentation-pitch-deck-designer/) | Complete visual design direction for presentations and pitch decks |
 | [`social-media-design-system`](design/social-media-design-system/) | Complete visual design system for social media content |
 | [`viral-content-design-director`](design/viral-content-design-director/) | Design direction for scroll-stopping, high-engagement content batches |
+
+### Dev
+
+**So What:** AI-generated code defaults to how a framework worked five
+versions ago. These skills lock in the current best-practice baseline for
+each stack — modern idioms, version verification before a line is written,
+and the failure-mode tables that turn debugging from guessing into lookup.
+
+| Skill | What It Does |
+|---|---|
+| [`angular-architect`](dev/angular-architect/) | Modern Angular architecture: standalone components, signals, OnPush, typed forms, SSR hydration, Nx |
 
 ### GodMode
 
