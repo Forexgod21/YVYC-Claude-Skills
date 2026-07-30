@@ -143,10 +143,10 @@ YVYC-Claude-Skills/
 | Publishing | 0 |
 | Recovery | 0 |
 | Research | 0 |
-| Security | 1 |
+| Security | 2 |
 | Trading | 0 |
 | Writing | 3 |
-| **Total** | **61** |
+| **Total** | **62** |
 
 > This table is updated with every new skill added.
 
@@ -295,6 +295,7 @@ findings.
 | Skill | What It Does |
 |---|---|
 | [`security-review-v2`](security/security-review-v2/) | Structured red-team security review: exploit paths, fixes, and verification — evidence-first |
+| [`security-reviewer`](security/security-reviewer/) | Hands-on code security execution: trust boundaries, OWASP walk, CWE findings with exploit paths and fixes |
 
 ### Writing
 
