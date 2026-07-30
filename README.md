@@ -141,12 +141,12 @@ YVYC-Claude-Skills/
 | Productivity | 3 |
 | Psychology | 2 |
 | Publishing | 0 |
-| Recovery | 1 |
+| Recovery | 2 |
 | Research | 0 |
 | Security | 2 |
 | Trading | 0 |
 | Writing | 6 |
-| **Total** | **84** |
+| **Total** | **85** |
 
 > This table is updated with every new skill added.
 
@@ -325,6 +325,7 @@ test them.
 | Skill | What It Does |
 |---|---|
 | [`crisis-boundary-protocol`](recovery/crisis-boundary-protocol/) | The bridge built before the fire: scope lines, warm handoffs, honesty doctrine, supporter debriefs |
+| [`peer-support-session-frame`](recovery/peer-support-session-frame/) | The frame of peer work: the peer lane, four-part sessions, story discipline, the oxygen mask |
 
 ### Security
 
