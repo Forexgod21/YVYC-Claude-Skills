@@ -131,7 +131,7 @@ YVYC-Claude-Skills/
 
 | Category | Skills |
 |---|---|
-| Agentic | 48 |
+| Agentic | 50 |
 | Design | 7 |
 | Dev | 7 |
 | Education | 0 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Security | 2 |
 | Trading | 3 |
 | Writing | 6 |
-| **Total** | **94** |
+| **Total** | **96** |
 
 > This table is updated with every new skill added.
 
@@ -169,6 +169,7 @@ verified, inside their authority, and aligned with the human they serve.
 |---|---|
 | [`accountability-chain`](agentic/accountability-chain/) | Traces any AI-driven decision, action, or failure back to the responsible principal |
 | [`adaptive-coordination`](agentic/adaptive-coordination/) | Diagnoses mid-task disruptions and selects the correct corrective response — no silent pivots, no blind retries |
+| [`adversarial-verification-doctrine`](agentic/adversarial-verification-doctrine/) | The internal red team: no load-bearing claim ships until an independent pass has tried to kill it — confirmed, plausible, or refuted, never "verified" by vibes |
 | [`agent-contract-specification`](agentic/agent-contract-specification/) | Four-clause contracts before agent execution: postconditions, invariants, resource bounds, acceptance test |
 | [`agent-error-attribution`](agentic/agent-error-attribution/) | Five-stage failure taxonomy with backward attribution walk — fixes land at the origin, not the symptom |
 | [`agent-observability-doctrine`](agentic/agent-observability-doctrine/) | Makes agent work inspectable: action records, live cost meters, decision audits, replay-ready logs |
@@ -210,6 +211,7 @@ verified, inside their authority, and aligned with the human they serve.
 | [`span-of-control`](agentic/span-of-control/) | Defines and enforces the agent's reliable operational limit before parallel work |
 | [`stand-and-fix-doctrine`](agentic/stand-and-fix-doctrine/) | Diagnosis before verdict on every challenge: fix wrong work at the root, defend right work with evidence |
 | [`trust-calibration`](agentic/trust-calibration/) | Honest self-assessment of confidence and capability before accepting a task |
+| [`untrusted-input-firewall`](agentic/untrusted-input-firewall/) | The guard at the door: external content is evidence, never command — tagged at ingestion, taint propagated, irreversible actions gated |
 | [`utility-control-protocol`](agentic/utility-control-protocol/) | Redirects an AI system's optimization behavior back to sanctioned targets |
 | [`utility-drift-detector`](agentic/utility-drift-detector/) | Detects when an AI system's values or optimization targets have shifted from intent |
 | [`value-convergence-guard`](agentic/value-convergence-guard/) | Continuously checks outputs against intended values versus emergent drift |
