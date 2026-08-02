@@ -123,7 +123,7 @@ YVYC-Claude-Skills/
 | `trading/` | Elliott Wave, forex, Pine Script | Forex work |
 | `writing/` | Content, storytelling, editing | Luna books, Don't Feed the Trolls |
 
-> Categories marked with 0 skills are scaffolded and actively planned. Skills are added as they are built and tested.
+> Every category is live. Skills are added as they are built and tested.
 
 ---
 
@@ -134,19 +134,19 @@ YVYC-Claude-Skills/
 | Agentic | 50 |
 | Design | 7 |
 | Dev | 7 |
-| Education | 0 |
+| Education | 1 |
 | GodMode | 6 |
 | Marketing | 3 |
 | Nonprofit | 4 |
 | Productivity | 3 |
 | Psychology | 2 |
-| Publishing | 0 |
+| Publishing | 1 |
 | Recovery | 3 |
-| Research | 0 |
+| Research | 1 |
 | Security | 2 |
 | Trading | 3 |
 | Writing | 6 |
-| **Total** | **96** |
+| **Total** | **99** |
 
 > This table is updated with every new skill added.
 
@@ -252,6 +252,17 @@ and the failure-mode tables that turn debugging from guessing into lookup.
 | [`feature-forge`](dev/feature-forge/) | Greenfield design sequence: job-to-be-done, constraints, data model, API contract, phased delivery |
 | [`swift-ios-expert`](dev/swift-ios-expert/) | Modern Apple platform development: Swift 6 concurrency, @Observable SwiftUI, SwiftData actor rules |
 
+### Education
+
+**So What:** Most teaching material is designed forward — content first,
+activities second, a test invented at the end — and produces learners who
+attended everything and can do nothing new. These skills lock in
+outcome-first design so instruction is built backward from evidence.
+
+| Skill | What It Does |
+|---|---|
+| [`backward-design-curriculum`](education/backward-design-curriculum/) | Outcome, then evidence, then activity — with load budgets, fading scaffolds, misconception-first design, and mastery gates |
+
 ### GodMode
 
 **So What:** Default AI behavior has a ceiling that has nothing to do with
@@ -321,6 +332,17 @@ rigor as the code.
 | [`algorithmic-management-audit`](psychology/algorithmic-management-audit/) | Six-lane audit of any system that manages people: control functions, contestability, gaming paths, override integrity |
 | [`motivation-architecture`](psychology/motivation-architecture/) | Audits motivation as a structure, not a quantity: three-needs scoring, internalization continuum, intervention prediction |
 
+### Publishing
+
+**So What:** A picture book is not a short story with pictures — it is a
+performed, paginated artform whose co-author (the illustrator) hasn't
+arrived yet. These skills encode the craft architecture that survives both
+the editor's three-minute read and the four-hundredth bedtime performance.
+
+| Skill | What It Does |
+|---|---|
+| [`picture-book-architecture`](publishing/picture-book-architecture/) | Page-turn tension, the 32-page frame, the words/art labor split, the read-aloud test, and arcs the child earns |
+
 ### Recovery
 
 **So What:** Peer support runs on trust, and trust breaks at the moments
@@ -334,6 +356,18 @@ test them.
 | [`crisis-boundary-protocol`](recovery/crisis-boundary-protocol/) | The bridge built before the fire: scope lines, warm handoffs, honesty doctrine, supporter debriefs |
 | [`peer-support-session-frame`](recovery/peer-support-session-frame/) | The frame of peer work: the peer lane, four-part sessions, story discipline, the oxygen mask |
 | [`recovery-capital-mapping`](recovery/recovery-capital-mapping/) | Strengths-based planning: four capital domains, honest ledger, goals built from existing ground |
+
+### Research
+
+**So What:** The book-report literature review — one paragraph per source,
+in reading order — fails every reviewer who sees it, and a single
+fabricated citation destroys credibility retroactively. These skills turn
+source piles into arguments and hold citations to a zero-tolerance
+verification standard.
+
+| Skill | What It Does |
+|---|---|
+| [`literature-synthesis-doctrine`](research/literature-synthesis-doctrine/) | Synthesis over summary: the source-by-theme matrix, claim-source binding, the citation guard, and gaps checked against the corpus |
 
 ### Security
 
