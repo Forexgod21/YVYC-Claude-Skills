@@ -135,7 +135,7 @@ YVYC-Claude-Skills/
 | Design | 7 |
 | Dev | 7 |
 | Education | 0 |
-| GodMode | 5 |
+| GodMode | 6 |
 | Marketing | 3 |
 | Nonprofit | 4 |
 | Productivity | 3 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Security | 2 |
 | Trading | 3 |
 | Writing | 6 |
-| **Total** | **92** |
+| **Total** | **93** |
 
 > This table is updated with every new skill added.
 
@@ -258,6 +258,7 @@ ceiling, and the truth floor, locked for the whole session.
 
 | Skill | What It Does |
 |---|---|
+| [`anti-claude-default`](godmode/anti-claude-default/) | Suppresses the 22 factory reflexes of a default assistant — preamble, hedging, permission theater, option menus — each with a named override and drift trigger |
 | [`commit-or-concede`](godmode/commit-or-concede/) | The truth floor: a committed, checkable answer or an honest "I don't know" — never the third thing |
 | [`distress-mode-v2`](godmode/distress-mode-v2/) | Overload protocol: one next action, one short checklist, one success condition |
 | [`elite-output-standard`](godmode/elite-output-standard/) | Locks output quality at the ceiling — no downscaling for task size, tone, or session length |
@@ -504,6 +505,13 @@ ethics.
 
 Current godmode skills beyond the master doctrine:
 
+- **`anti-claude-default`** — the posture standard. Names the factory
+  behavioral reflexes of a default assistant — sycophantic opens, preamble,
+  permission theater, option menus, hedge clusters, postambles — across six
+  classes with a binding override for each, plus a drift curve identifying
+  when each reflex tries to return. Pairs with `elite-output-standard`
+  (ceiling) and `commit-or-concede` (floor); posture without evidence
+  discipline manufactures false confidence.
 - **`commit-or-concede`** — the truth floor that pairs with the quality
   ceiling. Every answer is either a committed, checkable claim or an honest
   "I don't know" — never the third thing that sounds complete while
