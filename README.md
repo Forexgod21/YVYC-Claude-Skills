@@ -131,7 +131,7 @@ YVYC-Claude-Skills/
 
 | Category | Skills |
 |---|---|
-| Agentic | 47 |
+| Agentic | 48 |
 | Design | 7 |
 | Dev | 7 |
 | Education | 0 |
@@ -146,7 +146,7 @@ YVYC-Claude-Skills/
 | Security | 2 |
 | Trading | 3 |
 | Writing | 6 |
-| **Total** | **93** |
+| **Total** | **94** |
 
 > This table is updated with every new skill added.
 
@@ -204,6 +204,7 @@ verified, inside their authority, and aligned with the human they serve.
 | [`runtime-delegation-safety`](agentic/runtime-delegation-safety/) | Five-check gate on every live handoff: capability, authority, state, boundary, recovery |
 | [`scope-attenuation-chain`](agentic/scope-attenuation-chain/) | Authorization that only narrows in transit: grant records, structural provenance, cascade revocation |
 | [`security-threat-taxonomy`](agentic/security-threat-taxonomy/) | Identifies and classifies security threats specific to agentic AI systems |
+| [`session-handoff-protocol`](agentic/session-handoff-protocol/) | Ends every session with a one-screen continuity capsule and starts the next by loading and verifying it — kills the cold-start re-teaching tax |
 | [`shared-kernel`](agentic/shared-kernel/) | The federation's common spine: evidence-first, zero-defect output, scope discipline, verification gates |
 | [`social-intelligence-delegate`](agentic/social-intelligence-delegate/) | Determines when agents proceed, pause, or hand off context-sensitive human interactions |
 | [`span-of-control`](agentic/span-of-control/) | Defines and enforces the agent's reliable operational limit before parallel work |
