@@ -6,17 +6,12 @@ license: CC BY 4.0
 category: agentic
 tier: 4
 description: >
-  Use this skill whenever the user needs to detect whether an AI system's
-  outputs suggest its values or optimization targets have shifted from what
-  was intended or established at deployment. Triggers when the user asks
-  about AI value drift, behavioral changes over time, or says things like
-  "my AI is behaving differently than it used to", "something has shifted
-  in how my AI responds", "I think my AI's priorities have changed",
-  "detect value drift in my AI system", or "my AI outputs feel off in a
-  way I can't pin down." Always activate this skill when the user needs a
-  structured framework for identifying, measuring, and responding to
-  post-deployment drift in AI utility functions — the gradual or sudden
-  shift in what an AI system implicitly optimizes for over time.
+  Use when detecting post-deployment drift in what an AI system implicitly
+  optimizes for. Triggers on "my AI is behaving differently than it used
+  to", "I think my AI's priorities have changed", "detect value drift in my
+  AI system", "my AI outputs feel off in a way I can't pin down", or any
+  request to identify, measure, and respond to shifts in AI behavior over
+  time.
 ---
 
 # Utility Drift Detector

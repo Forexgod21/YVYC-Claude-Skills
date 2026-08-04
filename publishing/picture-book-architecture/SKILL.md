@@ -5,19 +5,13 @@ author: YourVisionYourCreation LLC
 license: CC BY 4.0
 category: publishing
 description: >
-  Governs the craft architecture of picture books and read-aloud
-  children's texts: page-turn tension, the 32-page frame, the division
-  of labor between words and art, read-aloud cadence, word-count
-  discipline, and emotional arcs that belong to the child. Trigger
-  whenever the task involves writing, revising, critiquing, or
-  structuring a picture book, board book, early reader, or any
-  children's manuscript meant to be read aloud; whenever illustration
-  notes, spread maps, or page breaks are being planned; and whenever
-  children's book text is being evaluated for acquisition, submission,
-  or series consistency. The unit of composition is the spread and the
-  page turn, not the sentence. Never treat a low word count as a low
-  difficulty signal; the shorter the text, the less room any weak word
-  has to hide.
+  Governs the craft architecture of picture books and read-aloud children's
+  texts: page-turn tension, the 32-page frame, the word/art division of
+  labor, read-aloud cadence, and word-count discipline. Trigger whenever a
+  picture book, board book, early reader, or read-aloud manuscript is
+  written, revised, critiqued, or structured; whenever spread maps,
+  illustration notes, or page breaks are planned; and whenever children's
+  text is evaluated for acquisition or submission.
 ---
 
 # Picture Book Architecture
@@ -42,6 +36,10 @@ manuscript in three minutes, and a parent who buys it will read it
 aloud hundreds of times. The text must survive both the three-minute
 judgment and the four-hundredth reading. That is the standard this
 skill holds.
+
+The unit of composition is the spread and the page turn, not the
+sentence. And never treat a low word count as a low difficulty signal:
+the shorter the text, the less room any weak word has to hide.
 
 ---
 

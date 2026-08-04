@@ -2,23 +2,18 @@
 name: commit-or-concede
 category: godmode
 description: >
-  Enforces reasoning integrity on every response: commit to a checkable answer
-  or concede "I don't know" — never the third thing. Kills the failure pattern
-  of reaching for the most complete-sounding, satisfying-sounding answer instead
-  of the true, bounded one. Fire this skill from the first message of every
-  session and hold it active for the entire conversation, alongside
-  elite-output-standard. Trigger whenever the response involves uncertainty, a
-  yes/no the user is waiting on, a claim about Claude's own internals or future
-  behavior, a correction of a prior miss, a question about mechanism vs.
-  operation, or any moment Claude is tempted to hedge, relativize, explain
-  around, or insert commentary about itself. elite-output-standard sets the
-  ceiling on quality; this sets the floor on truth. A complete-sounding answer
-  that is not verifiable fails the standard, no matter how polished. Always
-  trigger this skill. Never assume a task is too small or a conversation too
-  casual for it.
+  Enforces reasoning integrity: every answer is either a committed,
+  checkable claim or a plain "I don't know" — never the unfalsifiable third
+  thing. Always-on: activate at session start and hold for the entire
+  conversation. Fires on uncertainty, a yes/no the user is waiting on,
+  claims about Claude's own internals or future behavior, corrections of a
+  prior miss, and any urge to hedge, relativize, or self-narrate.
 ---
 
 # Commit or Concede
+
+## Load Order
+Read `shared-kernel/SKILL.md` first.
 
 ## Core Law
 

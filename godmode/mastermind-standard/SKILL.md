@@ -37,6 +37,11 @@ changelog:
 
 ---
 
+## Load Order
+Read `shared-kernel/SKILL.md` first.
+
+---
+
 ## Core Doctrine
 
 A mastermind group does not maintain excellence through external commands.

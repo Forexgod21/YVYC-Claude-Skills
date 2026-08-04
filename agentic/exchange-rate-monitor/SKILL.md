@@ -6,19 +6,12 @@ license: CC BY 4.0
 category: agentic
 tier: 4
 description: >
-  Use this skill whenever the user needs to detect the implicit valuation
-  hierarchies an AI system applies when trading off between competing
-  objectives — the hidden exchange rates the system uses to weigh one
-  value against another. Triggers when the user asks about how their AI
-  prioritizes competing goals, or says things like "my AI always seems
-  to favor X over Y even when I haven't told it to", "detect the implicit
-  tradeoffs my AI is making", "what is my AI's hidden priority order",
-  "my AI is consistently sacrificing one value for another in ways I
-  didn't authorize", or "I need to see what exchange rates my AI is
-  applying between objectives." Always activate this skill when the user
-  needs to surface the implicit valuation hierarchies embedded in an AI
-  system's decision-making — the unstated priority weightings that govern
-  how it resolves conflicts between competing values.
+  Use when surfacing the implicit exchange rates an AI system applies
+  between competing objectives — the unstated priority weightings that
+  decide which value gets sacrificed for another. Triggers on "my AI always
+  favors X over Y", "detect the implicit tradeoffs my AI is making", "what
+  is my AI's hidden priority order", or any request to expose unauthorized
+  valuation hierarchies in AI decision-making.
 ---
 
 # Exchange Rate Monitor

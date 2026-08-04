@@ -6,18 +6,12 @@ license: CC BY 4.0
 category: agentic
 tier: 4
 description: >
-  Use this skill whenever the user needs to redirect an AI system's
-  utility expressions — its active optimization behavior — toward
-  sanctioned targets when divergence, drift, or misaligned exchange
-  rates have been identified. Triggers when the user says "redirect
-  my AI's optimization toward the right targets", "my AI is optimizing
-  for the wrong thing — fix it", "implement a utility correction
-  protocol", "my value audit found misalignment — now what", or
-  "I need a structured intervention to bring my AI's behavior back
-  in line with intended values." Always activate this skill when
-  the user needs a concrete, structured intervention protocol to
-  redirect AI utility expressions from emergent or drifted targets
-  back toward the values and objectives that were actually authorized.
+  Use when redirecting an AI system's active optimization behavior back
+  toward sanctioned targets after divergence, drift, or misaligned exchange
+  rates have been identified. Triggers on "my AI is optimizing for the wrong
+  thing — fix it", "implement a utility correction protocol", "my value
+  audit found misalignment — now what", or any request for a structured
+  intervention to realign AI behavior with authorized values.
 ---
 
 # Utility Control Protocol
