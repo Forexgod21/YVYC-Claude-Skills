@@ -5,19 +5,13 @@ author: YourVisionYourCreation LLC
 license: CC BY 4.0
 category: agentic
 description: >
-  Eliminates the cold-start tax between sessions. Every substantive
-  session ends by writing a continuity capsule: mission line, decision
-  ledger, open loops, dead ends, convention deltas, state facts, and a
-  next-actions queue. Every resumed session begins by loading the
-  capsule and verifying it against current reality before producing
-  anything. Trigger at the end of any substantive session, before any
-  context compaction, after any major decision or direction change, and
-  at the start of any session where a capsule exists. Also trigger when
-  the operator re-explains something they have explained before, when a
-  new session re-litigates a settled decision, or when work resumes on
-  a project after any gap. This skill governs cross-session state.
-  Within-session compaction belongs to compaction-integrity-protocol;
-  standing behavioral rules belong to correction-conversion-protocol.
+  Eliminates the cold-start tax between sessions via a continuity capsule:
+  mission line, decision ledger, open loops, dead ends, convention deltas,
+  state facts, and next-actions queue. Trigger at the end of any substantive
+  session, before context compaction, after major decisions, at the start of
+  any session where a capsule exists, and whenever the operator re-explains
+  settled ground. Cross-session state only; within-session compaction
+  belongs to compaction-integrity-protocol.
 ---
 
 # Session Handoff Protocol

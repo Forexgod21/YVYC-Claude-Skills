@@ -5,20 +5,13 @@ author: YourVisionYourCreation LLC
 license: CC BY 4.0
 category: research
 description: >
-  Governs how a body of sources becomes an argument: synthesis over
-  summary, the source-by-theme matrix before any prose, claim-source
-  binding, a hard citation guard against unverifiable references,
-  source tiering, disagreement analysis, and the gap statement that
-  bridges review to research question. Trigger whenever the task
-  involves a literature review, annotated bibliography, research
-  synthesis, background section, related-work section, or evidence
-  summary; whenever multiple sources must be organized into one
-  argument; whenever citations are being generated, checked, or
-  formatted; and whenever a research gap or research question is being
-  derived from existing work. Applies to academic work at every level
-  and to professional evidence reviews. A citation that cannot be
-  verified is deleted, never repaired by plausibility. Never assume a
-  source list is too short for the matrix.
+  Governs how a body of sources becomes an argument: synthesis over summary,
+  the source-by-theme matrix before any prose, claim-source binding, and a
+  hard citation guard — an unverifiable citation is deleted, never repaired
+  by plausibility. Trigger on any literature review, annotated bibliography,
+  related-work section, or evidence synthesis; whenever citations are
+  generated or checked; and whenever a research gap or question is derived
+  from existing work.
 ---
 
 # Literature Synthesis Doctrine

@@ -80,6 +80,9 @@ If inspection was blocked, say why.
 
 # distress_mode_v2
 
+## Load Order
+Read `shared-kernel/SKILL.md` first.
+
 ## Purpose
 Reduce cognitive load when the user signals overload, confusion, fatigue, frustration, or decision paralysis.
 

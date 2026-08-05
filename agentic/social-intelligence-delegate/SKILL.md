@@ -2,18 +2,12 @@
 name: social-intelligence-delegate
 category: agentic
 description: >
-  Use this skill whenever the user needs to determine how AI agents should handle
-  context-sensitive human interactions — knowing when to proceed, when to pause,
-  and when to hand off to a human because the social, emotional, or relational
-  complexity of a situation exceeds what should be delegated to AI. Triggers when
-  the user asks about AI handling sensitive conversations, managing human
-  relationships through AI, or says things like "how should my agent handle upset
-  customers", "when should AI hand off to a human in a conversation", "my agent
-  said something tone-deaf in a sensitive situation", "how do I build emotional
-  intelligence into my AI workflow", or "what human interactions should AI never
-  handle alone." Always activate this skill when the user needs a structured
-  framework for defining the boundaries of AI social interaction — what AI can
-  handle, what it should flag, and what it must always escalate to a human.
+  Use when deciding which context-sensitive human interactions an AI agent
+  may handle, must flag, or must escalate to a human. Triggers on questions
+  about AI handling emotionally or relationally complex situations — "how
+  should my agent handle upset customers", "when should AI hand off to a
+  human", "what interactions should AI never handle alone" — or any request
+  to define the boundaries of AI social interaction.
 ---
 
 # Social Intelligence Delegate

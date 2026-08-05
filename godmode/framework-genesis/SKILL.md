@@ -24,6 +24,9 @@ coinage_notice: >
 
 # Framework-Genesis
 
+## Load Order
+Read `shared-kernel/SKILL.md` first.
+
 Framework-genesis is the cognitive posture and operational discipline that
 activates when no sufficient framework exists for the problem at hand.
 

@@ -2,18 +2,13 @@
 name: google-sheets
 category: productivity
 description: >
-  Use this skill for ANY task involving Google Sheets or Google Apps Script (.gs files).
-  Triggers include: reading, writing, formatting, or analyzing spreadsheet data;
-  building Apps Script automations, custom menus, sidebars, or dashboards;
-  writing onEdit/onOpen/onChange triggers; creating data validation, conditional
-  formatting, named ranges, or protected ranges; building custom functions;
-  integrating Sheets with Gmail, Drive, Calendar, Forms, Docs, Slides, or external APIs;
-  importing/exporting CSV, XLSX, JSON, or PDF from Sheets; building chart or pivot table
-  logic; debugging Apps Script errors; optimizing batch read/write performance;
-  building Blast Plan, TEMPO OS, or any tracker system in Sheets.
-  ALWAYS trigger this skill when the user mentions Google Sheets, Apps Script, .gs files,
-  SpreadsheetApp, HtmlService, sidebar, custom menu, onEdit, getDashboardData,
-  or any sheet-level automation — even if the request sounds simple.
+  Use for any task involving Google Sheets or Google Apps Script (.gs
+  files): reading, writing, formatting, or analyzing sheet data; Apps Script
+  automations, triggers, custom menus, sidebars, and custom functions;
+  integrating Sheets with Gmail, Drive, Calendar, or external APIs;
+  import/export; debugging; and batch performance. Trigger on any mention of
+  Sheets, Apps Script, SpreadsheetApp, HtmlService, onEdit, or sheet-level
+  automation — even when the request sounds simple.
 ---
 
 # Google Sheets & Apps Script — Elite Reference

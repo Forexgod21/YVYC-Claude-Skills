@@ -6,19 +6,12 @@ license: CC BY 4.0
 category: agentic
 tier: 4
 description: >
-  Use this skill whenever the user needs to continuously check whether
-  an AI system's ongoing outputs remain aligned with its intended values
-  versus drifting toward emergent ones. Triggers when the user asks about
-  ongoing value alignment monitoring, or says things like "keep checking
-  my AI's outputs against what it's supposed to value", "monitor whether
-  my AI is converging on the right values over time", "set up ongoing
-  alignment checks for my AI system", "I need continuous verification
-  that my AI's behavior matches intended values", or "guard against my
-  AI converging on unintended values in operation." Always activate this
-  skill when the user needs a structured ongoing monitoring framework
-  that checks AI outputs against intended values continuously —
-  not just at deployment or during audits, but as a persistent
-  operational guard.
+  Use when setting up continuous monitoring that checks an AI system's
+  ongoing outputs against its intended values — a persistent operational
+  guard, not a one-time audit. Triggers on "monitor whether my AI is
+  converging on the right values", "set up ongoing alignment checks", "guard
+  against my AI converging on unintended values", or any request for
+  continuous value-alignment verification.
 ---
 
 # Value Convergence Guard

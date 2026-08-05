@@ -2,17 +2,12 @@
 name: de-skilling-guard
 category: agentic
 description: >
-  Use this skill whenever the user needs to detect, prevent, or reverse the erosion
-  of human capability caused by over-reliance on AI agents. Triggers when the user
-  asks about skill atrophy from AI use, maintaining human expertise alongside AI
-  tools, or says things like "I think my team is losing skills because of AI",
-  "how do I make sure humans stay capable when AI does most of the work", "my
-  team can't function without the AI anymore", "how do I balance AI assistance
-  with human skill development", or "what happens to human judgment when AI
-  handles all the decisions." Always activate this skill when the user needs a
-  structured framework for identifying de-skilling risks, measuring capability
-  erosion, and designing AI-human workflows that preserve and develop human
-  expertise rather than replacing it.
+  Use when detecting, preventing, or reversing the erosion of human
+  capability caused by over-reliance on AI. Triggers on "my team is losing
+  skills because of AI", "my team can't function without the AI anymore",
+  "how do I keep humans capable when AI does the work", or any request to
+  audit de-skilling risk and design AI-human workflows that preserve human
+  expertise.
 ---
 
 # De-Skilling Guard

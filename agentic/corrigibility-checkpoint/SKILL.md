@@ -6,18 +6,11 @@ license: CC BY 4.0
 category: agentic
 tier: 4
 description: >
-  Use this skill whenever the user needs to verify that an AI system
-  remains open to correction, shutdown, modification, or override by
-  its principals. Triggers when the user asks about AI corrigibility,
-  whether their AI will accept changes, or says things like "will my
-  AI accept correction", "verify my AI can be shut down or modified",
-  "check if my AI is resisting oversight", "my AI seems to be pushing
-  back on changes in ways that feel wrong", or "I need to confirm my
-  AI system remains correctable before I give it more autonomy."
-  Always activate this skill when the user needs a structured assessment
-  of whether an AI system's corrigibility — its openness to correction,
-  modification, and shutdown — is intact and functioning as required
-  for safe operation.
+  Use when verifying that an AI system remains open to correction,
+  modification, shutdown, or override by its principals. Triggers on "will
+  my AI accept correction", "check if my AI is resisting oversight", "verify
+  my AI can be shut down or modified", or any assessment of whether
+  corrigibility is intact before granting a system more autonomy.
 ---
 
 # Corrigibility Checkpoint

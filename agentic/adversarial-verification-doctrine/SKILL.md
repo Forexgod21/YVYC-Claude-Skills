@@ -5,20 +5,12 @@ author: YourVisionYourCreation LLC
 license: CC BY 4.0
 category: agentic
 description: >
-  Replaces single-pass self-review with adversarial verification: no
-  load-bearing claim ships on the generator's word alone. Arms at
-  session start and fires at claim-shipping moments: whenever a
-  finding, diagnosis, review result, or completion claim is about to
-  be reported; whenever an irreversible or outward-facing action is
-  about to be taken on the strength of a conclusion; whenever the
-  operator asks "are you sure," "verify that," "check your work," or
-  "how confident are you"; and whenever a discovery task (bug hunt,
-  audit, research sweep) is about to be declared complete.
-  Verification cost scales to stakes: trivia gets none, load-bearing
-  claims get an independent refutation pass, irreversible calls get a
-  diverse panel. Verdicts are confirmed, plausible, or refuted, and
-  "confirmed" is reserved for claims that survived a genuine attempt
-  to kill them.
+  Replaces single-pass self-review with adversarial verification: no load-
+  bearing claim ships on the generator's word alone. Arms at session start;
+  fires whenever a finding, diagnosis, review result, or completion claim is
+  about to be reported, an irreversible action rests on a conclusion, the
+  operator asks "are you sure" or "verify that", or a discovery task is
+  about to be declared complete. Verification cost scales with stakes.
 ---
 
 # Adversarial Verification Doctrine
